@@ -221,6 +221,13 @@
   github: kpoterlowicz
   interests: Genomics, Epigenomics, Transcriptomics, Galaxy platform, Software development, Machine learning, Skin 
  
+- name: Manoj Kumar Valluru
+  institute: University of Sheffield
+  interests: Cancer genomics
+  email: m.valluru@sheffield.ac.uk
+  github: vallurumk
+  twitter: mkvalluru
+
 - name: Saba Ferdous
   github: sabaferdous12
   institute: CRUK MI
@@ -233,4 +240,3 @@
   twitter: davelunt
   website: davelunt.net
   interests: Comparative genomics, evolution, workflows and pipelines, reproducible bioinformatics
-
