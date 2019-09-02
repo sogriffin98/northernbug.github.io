@@ -63,8 +63,10 @@ If you are coming in at the main university entrance on Cottingham road then jus
 ## Parking
 We are sorting out parking permits for everyone (but it is taking a while). If you need a parking permit, please put it on the Eventbrite registration or contact the organising team. 
 
+## Buses
 There are very regular buses from the train station to campus (numbers 103, 105, 5, please check though) and public transport is a good option. Similarly, taxis from the train station are relatively cost effective.
 
+# Post meeting pub
 Drinks after the main BUG will be at Larkin's 48 Newland Ave, Hull HU5 3AE
 Its about 15 minutes walk from the Uni.
 It serves decent beer, and also food. Its on a bus route (and about 25 mins walk) to the station. There is some, but not a lot, of parking close by.
