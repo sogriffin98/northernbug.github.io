@@ -10,7 +10,7 @@ permalink: northernbug5
 
 # General
 
-NorthernBUG 5 will be held at the University of Hull on Monday 9th September 2019, starting at 12pm with lunch and finishing at 5pm. There will be a trip to a local pub afterwards, allowing drinks, further conversation and food if you wish.
+NorthernBUG 5 will be held at the University of Hull on Monday 9th September 2019, starting at 12pm with lunch and finishing at 5pm. There will be a trip to a local pub afterwards, allowing drinks, further conversation and food if you wish. There is a pre-meeting 11-12 to discuss northernBUG organisation to which all are welcome.
 
 This is of course a user group not a conference so the format will be a little more fluid than just presentations. The meeting will be composed of talks, discussions, and posters, but extended informal discussions of topics and challenges to all of us will be promoted.
 
@@ -62,6 +62,8 @@ If you are coming in at the main university entrance on Cottingham road then jus
 
 ## Parking
 We are sorting out parking permits for everyone (but it is taking a while). If you need a parking permit, please put it on the Eventbrite registration or contact the organising team. 
+
+If you need to park without a permit then you can also use the Wilberforce car park on campus. Enter the University north entrance on Inglemire Lane, the multistorey Wilberforce carpark is on your left after about 500m. We think it is £2 per day.
 
 ## Buses
 There are very regular buses from the train station to campus (numbers 103, 105, 5, please check though) and public transport is a good option. Similarly, taxis from the train station are relatively cost effective.
