@@ -61,7 +61,7 @@ The meeting will take place in the Kingsley Suite of the Canham Turner building,
 If you are coming in at the main university entrance on Cottingham road then just keep walking straight ahead through the main grassy square. When you go through the last arch and can walk no further you will have hit the Canham Turner building.
 
 ## Parking
-We are sorting out parking permits for everyone (but it is taking a while). If you need a parking permit, please put it on the Eventbrite registration or contact the organising team. 
+We have 20 parking permits available for collection for the people who have requested, and a few spares. These can be picked up from the Venn building reception (Venn is the building on left as you enter University main entrance from Cottingham road). Please mention northernBUG (tickets were booked by Cristina Di Muri). The first 10 can park there at the Venn building, the next 10 can park in front of Swale House, which is very close and Venn reception will give directions.
 
 If you need to park without a permit then you can also use the Wilberforce car park on campus. Enter the University north entrance on Inglemire Lane, the multistorey Wilberforce carpark is on your left after about 500m. We think it is £2 per day.
 
