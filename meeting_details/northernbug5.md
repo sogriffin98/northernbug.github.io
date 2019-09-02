@@ -15,7 +15,7 @@ NorthernBUG 5 will be held at the University of Hull on Monday 9th September 201
 This is of course a user group not a conference so the format will be a little more fluid than just presentations. The meeting will be composed of talks, discussions, and posters, but extended informal discussions of topics and challenges to all of us will be promoted.
 
 # Presentations and Posters
-As at the last meeting we encourage people presenting posters to also give a 1 minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible coming to discuss their poster. Details on the 1 minute teaser talks will be circulated later, but in short its 1 minute, 1 slide, and do not try to summarise 3 years of work, just the 'elevator pitch'. Please email your 1 slide to dave.lunt@gmail.com
+As at the last meeting we encourage people presenting posters to also give a 1 minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible coming to discuss their poster. Details on the 1 minute teaser talks will be circulated later, but in short its 1 minute, 1 slide, and do not try to summarise 3 years of work, just the 'elevator pitch'.
 
 Talks are mostly 20 minutes, so approximately 15 + 5mins discussion.
 
@@ -70,5 +70,7 @@ There are very regular buses from the train station to campus (numbers 103, 105,
 Drinks after the main BUG will be at Larkin's 48 Newland Ave, Hull HU5 3AE
 Its about 15 minutes walk from the Uni.
 It serves decent beer, and also food. Its on a bus route (and about 25 mins walk) to the station. There is some, but not a lot, of parking close by.
+
+# Maps
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2357.9889024158215!2d-0.3702747838635194!3d53.77188490045193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4878bf79a645b0e9%3A0xe0b0b16917bd08fb!2sCanham+Turner!5e0!3m2!1sen!2suk!4v1562926201461!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
