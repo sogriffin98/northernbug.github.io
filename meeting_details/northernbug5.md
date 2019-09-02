@@ -22,8 +22,33 @@ Please volunteer to talk. We will have 15 minute presentations. We will attempt 
 If anyone would like to fill any of these talk/poster slots please fill out the [Google form](https://forms.gle/HYRxY57HiSrrzBTZ7)
 
 # Agenda
+There will be a pre-meeting from 11-12 to discuss the funding from the Genetics Society and other topics. The agenda has been posted on the Google Groups page. All are welcome at this meeting, just turn up. 
 
-The agenda of talks will appear here closer to the event. Lunch will begin at 12, there will be a coffee break at approx 3pm, and concluding remarks at 5pm.
+| Time          | Speaker | Presentation |
+|---------------|---------|--------------|
+| 11:00-12:00 | All (Optional) |Pre-meeting northernBUG ‘business meeting’ (All Welcome)
+| 12:00-13:00 | All | Lunch |
+| 13:00-13:05 | Dave Lunt |  Introduction |
+| 13:05-13:20 | Mark Dunning | Report on shared bioinformatics training meeting|
+| 13:20-13:40 | All | follow on teaching and training discussion, and actions
+| 13:40-14:00 | Lucy Stead | 'Omics approaches to understanding treatment resistance in glioblastoma brain tumours |
+| 14:00-14:10 | Chris Collins | Intro to Bioinformatics and High Performance Computing|
+| 14:10-14:30 | All | follow on HPC and Bioinformatics discussion |
+| 14:30-14:35 | All | 1 minute 1 slide Teaser Talks for posters |
+| 14:35-15:15 | All | Coffee Break and Poster Session |
+| 15:15-15:45 | John Davey  | How to assemble a genome in early September 2019 |
+| 15:45-16:05 | Eleanor Green | Big Data Archaeology  |
+| 16:05-16:35 | All | Business meeting summary and discussion |
+| 16:35-      | All | Drinks (food) - Larkin's Bar, Newland Avenue, HU5 3AE |
+
+
+| Poster Title | Person | University |
+|---------------|---------|--------------|
+| Sxl: a candidate gene for sex determination in T. cancriformis | Michael Winter | University of Hull |
+| unknown | Krzysztof Poterlowicz | University of Bradford |
+| CLUStard: An automated pipeline for metagenomic clustering using read abundance changes over time | Annabel Cansdale | University of York |
+
+If you have a poster you wish to display please just bring it. Though it bwould be great to still fill out the Google form so we can get the right number of poster boards.
 
 # Registration
 
