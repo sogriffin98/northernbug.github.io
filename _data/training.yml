@@ -27,3 +27,35 @@
   city: Sheffield
   location: SITraN
   link: http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/
+
+- title: Introduction to Practical Bioinformatics
+  subtitle: This intensive two-day course aims to introduce scientists to the command-line interface and the R programming environment.
+  description: Day 1 begins with an introduction to the Linux command-line, covering essential core utilities before moving on to introduce command-line BLAST and shell scripting.
+
+Day 2 further develops shell scripting skills, then moves on to introduce data handling in the R statistical programming environment.
+
+We start from the basics without assuming any prior knowledge.
+  date: 17-09-2019
+  duration: 2
+  institute: Newcastle University
+  city: Newcastle
+  link: https://www.ncl.ac.uk/bsu/courses/
+
+- title: RNA-Seq Data Analysis
+  subtitle: This one-day course covers important aspects of Bioinformatics and the analysis of high-throughput sequencing data.
+  description: We work though an RNA-Seq Analysis example using Salmon for quantification, and the popular DESeq2 package for differential gene expression analysis.
+  date: 19-09-2019
+  duration: 1
+  institute: Newcastle University
+  city: Newcastle
+  link: https://www.ncl.ac.uk/bsu/courses/
+
+- title: Interpreting RNA-Seq Results
+  subtitle: This one-day course looks at several ways of adding functional context to lists of genes.
+  description: We begin by introducing methods for clustering and visualizing data, including dendrograms, heatmaps and venn diagrams. We then consider how to make use of functional annotation that has been added to the gene databases of many organisms to examine gene lists for classes of annotation that are statistically over-represented.
+  date: 20-09-2019
+  duration: 1
+  institute: Newcastle University
+  city: Newcastle
+  link: https://www.ncl.ac.uk/bsu/courses/
+
