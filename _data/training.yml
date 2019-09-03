@@ -39,6 +39,7 @@ We start from the basics without assuming any prior knowledge.
   duration: 2
   institute: Newcastle University
   city: Newcastle
+  location: Newcastle University Campus
   link: https://www.ncl.ac.uk/bsu/courses/
 
 - title: RNA-Seq Data Analysis
@@ -48,6 +49,7 @@ We start from the basics without assuming any prior knowledge.
   duration: 1
   institute: Newcastle University
   city: Newcastle
+  location: Newcastle University Campus
   link: https://www.ncl.ac.uk/bsu/courses/
 
 - title: Interpreting RNA-Seq Results
@@ -57,5 +59,6 @@ We start from the basics without assuming any prior knowledge.
   duration: 1
   institute: Newcastle University
   city: Newcastle
+  location: Newcastle University Campus
   link: https://www.ncl.ac.uk/bsu/courses/
 
