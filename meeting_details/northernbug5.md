@@ -20,12 +20,13 @@ As at the last meeting we encourage people presenting posters to also give a 1 m
 Talks are mostly 20 minutes, so approximately 15 + 5mins discussion.
 
 # Agenda
-There will be a pre-meeting from 11-12 to discuss the funding from the Genetics Society and other topics. The agenda for this meeting has been posted on the Google Groups page. All are welcome at this meeting, just turn up. 
+Arrival is from 10.30 at the Kingsley Suite of the Canham Turner building. We will have coffee. There will then be an optional pre-meeting from 11-12 to discuss the funding from the Genetics Society and other topics. The agenda for this meeting has been posted on the Google Groups page. All are welcome at this meeting, just turn up. Following the pre-meeting there will be the main arrival, coffee, and lunch from 12-1pm.
 
 | Time          | Speaker | Presentation |
 |---------------|---------|--------------|
+| 10:30-11:00 | All (optional) | Arrival and coffee before business meeting |
 | 11:00-12:00 | All (Optional) |Pre-meeting northernBUG ‘business meeting’ (All Welcome)
-| 12:00-13:00 | All | Lunch |
+| 12:00-13:00 | All | Arrival, coffee, lunch |
 | 13:00-13:05 | Dave Lunt |  Introduction |
 | 13:05-13:20 | Mark Dunning | Report on shared bioinformatics training meeting|
 | 13:20-13:40 | All | follow on teaching and training discussion, and actions
@@ -58,12 +59,10 @@ There is an Eventbrite [registration for NorthernBug5-Hull](https://www.eventbri
 # Getting to the meeting
 The meeting will take place in the Kingsley Suite of the Canham Turner building, on the campus of the University of Hull, Hu6 7RX.
 
-If you are coming in at the main university entrance on Cottingham road then just keep walking straight ahead through the main grassy square. When you go through the last arch and can walk no further you will have hit the Canham Turner building.
+If you are coming in at the main university entrance on Cottingham road then just keep walking straight ahead through the main grassy square. When you go through the last arch and can walk no further you will have hit the Canham Turner building. We will put out signs to help you.
 
 ## Parking
-We have 20 parking permits available for collection for the people who have requested, and a few spares. These can be picked up from the Venn building reception (Venn is the building on left as you enter University main entrance from Cottingham road). Please mention northernBUG (tickets were booked by Cristina Di Muri). The first 10 can park there at the Venn building, the next 10 can park in front of Swale House, which is very close and Venn reception will give directions.
-
-If you need to park without a permit then you can also use the Wilberforce car park on campus. Enter the University north entrance on Inglemire Lane, the multistorey Wilberforce carpark is on your left after about 500m. We think it is £2 per day.
+We have parking permits available for collection for the people who have requested, and spares if you haven't requested one. These can be picked up from the Venn building reception (Venn is the building on left as you enter University main entrance from Cottingham road). Please mention northernBUG (tickets were booked by Cristina Di Muri). We think everyone who needs to will be able to park right there at the Venn building, any other people can park in front of Swale House, which is very close and Venn reception will give directions.
 
 ## Buses
 There are very regular buses from the train station to campus (numbers 103, 105, 5, please check though) and public transport is a good option. Similarly, taxis from the train station are relatively cost effective.
