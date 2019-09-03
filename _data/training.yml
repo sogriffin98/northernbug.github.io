@@ -30,11 +30,7 @@
 
 - title: Introduction to Practical Bioinformatics
   subtitle: This intensive two-day course aims to introduce scientists to the command-line interface and the R programming environment.
-  description: Day 1 begins with an introduction to the Linux command-line, covering essential core utilities before moving on to introduce command-line BLAST and shell scripting.
-
-Day 2 further develops shell scripting skills, then moves on to introduce data handling in the R statistical programming environment.
-
-We start from the basics without assuming any prior knowledge.
+  description: Day 1 begins with an introduction to the Linux command-line, covering essential core utilities before moving on to introduce command-line BLAST and shell scripting. Day 2 further develops shell scripting skills, then moves on to introduce data handling in the R statistical programming environment. We start from the basics without assuming any prior knowledge.
   date: 17-09-2019
   duration: 2
   institute: Newcastle University
