@@ -12,7 +12,7 @@ permalink: northernbug5
 
 NorthernBUG 5 will be held at the University of Hull on Monday 9th September 2019, starting at 12pm with lunch and finishing at 5pm. There will be a trip to a local pub afterwards, allowing drinks, further conversation and food if you wish. There is a pre-meeting 11-12 to discuss northernBUG organisation to which all are welcome.
 
-This is of course a user group not a conference so the format will be a little more fluid than just presentations. The meeting will be composed of talks, discussions, and posters, but extended informal discussions of topics and challenges to all of us will be promoted.
+NorthernBUG is a [Genetics Society](http://www.genetics.org.uk) meeting funded as a sectional interest group. Its is of course a user group not a conference so the format will be a little more fluid than just presentations. The meeting will be composed of talks, discussions, and posters, but extended informal discussions of topics and challenges to all of us will be promoted.
 
 # Presentations and Posters
 As at the last meeting we encourage people presenting posters to also give a 1 minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible coming to discuss their poster. Details on the 1 minute teaser talks will be circulated later, but in short its 1 minute, 1 slide, and do not try to summarise 3 years of work, just the 'elevator pitch'.
