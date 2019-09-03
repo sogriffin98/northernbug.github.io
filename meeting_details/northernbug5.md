@@ -65,7 +65,7 @@ If you are coming in at the main university entrance on Cottingham road then jus
 We have parking permits available for collection for the people who have requested, and spares if you haven't requested one. These can be picked up from the Venn building reception (Venn is the building on left as you enter University main entrance from Cottingham road). Please mention northernBUG (tickets were booked by Cristina Di Muri). We think everyone who needs to will be able to park right there at the Venn building, any other people can park in front of Swale House, which is very close and Venn reception will give directions.
 
 ## Buses
-There are very regular buses from the train station to campus (numbers 103, 105, 5, please check though) and public transport is a good option. Similarly, taxis from the train station are relatively cost effective.
+The bus station is part of the train station. There are very regular buses from the station to campus (numbers 103, 105, 5, please check though) and public transport is a good option. Similarly, taxis from the train station are relatively cost effective.
 
 # Post meeting pub
 Drinks after the main BUG will be at Larkin's 48 Newland Ave, Hull HU5 3AE
