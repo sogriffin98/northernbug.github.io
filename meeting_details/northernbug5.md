@@ -47,6 +47,7 @@ Arrival is from 10.30 at the Kingsley Suite of the Canham Turner building. We wi
 | Sxl: a candidate gene for sex determination in T. cancriformis | Michael Winter | University of Hull |
 | unknown | Krzysztof Poterlowicz | University of Bradford |
 | CLUStard: An automated pipeline for metagenomic clustering using read abundance changes over time | Annabel Cansdale | University of York |
+| Heritability of heterothermic responses in the wild yellow necked mouse, Apodemus flavicollis | rohan raval | University of Huddersfield |
 
 If you have a poster you wish to display please just bring it. Though it would be great to still fill out the Google form so we can get the right number of poster boards.
 
