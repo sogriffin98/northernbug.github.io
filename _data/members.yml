@@ -240,3 +240,23 @@
   twitter: davelunt
   website: davelunt.net
   interests: Comparative genomics, evolution, workflows and pipelines, reproducible bioinformatics
+
+- name: Peter Ashton
+  institute: University of York
+  email: peter.ashton@york.ac.uk
+  twitter: peteashton1963
+  website: https://www.york.ac.uk/biology/technology-facility/genomics/
+
+- name: Chew Weng Cheng
+  institute: University of Leeds
+  email: c.w.cheng@leeds.ac.uk
+  twitter: chengcweng
+  website: https://medicinehealth.leeds.ac.uk/medicine/staff/1351/dr-chew-weng-cheng
+  interests: RNA-seq, WGS, Peptide-microarrays, Population genetics
+
+- name: Daneil Jeffares
+  institute: University of York
+  email: daniel.jeffares@york.ac.uk
+  twitter: danieljeffares
+  website: www.jeffareslab.org
+  interests: genomics, population genomics, Leishmania, yeast, molecular evolution
