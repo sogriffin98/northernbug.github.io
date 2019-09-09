@@ -22,6 +22,8 @@ Talks are mostly 20 minutes, so approximately 15 + 5mins discussion.
 # Agenda
 Arrival is from 10.30 at the Kingsley Suite of the Canham Turner building. We will have coffee. There will then be an optional pre-meeting from 11-12 to discuss the funding from the Genetics Society and other topics. The agenda for this meeting has been posted on the Google Groups page. All are welcome at this meeting, just turn up. Following the pre-meeting there will be the main arrival, coffee, and lunch from 12-1pm.
 
+Busines meeting minutes: https://docs.google.com/document/d/1KnJ-I5i24Qltsf49UV3knlQ9ocmFZaOkhF8Hf4zo_bQ/edit#
+
 | Time          | Speaker | Presentation |
 |---------------|---------|--------------|
 | 10:30-11:00 | All (optional) | Arrival and coffee before business meeting |
