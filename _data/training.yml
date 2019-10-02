@@ -58,3 +58,53 @@
   location: Newcastle University Campus
   link: https://www.ncl.ac.uk/bsu/courses/
 
+- title: Introduction to RNA-seq in R
+  subtitle: In this workshop, you will be learning how to analyse RNA-seq count data, using R. 
+  description: You will learn how to generate common plots for analysis and visualisation of gene expression data, such as boxplots and heatmaps. You will also be learning how alignment and counting of raw RNA-seq data can be performed in R. This workshop is aimed at biologists interested in learning how to perform differential expression analysis of RNA-seq data when reference genomes are available
+  date: 13-11-2019
+  duration: 2
+  institute: University of Sheffield
+  location: Pam Liversidge Building, Design Studio 1, D06
+  link: http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-11-13/
+  
+
+- title: Nanopore Sequencing & Data Analysis
+  subtitle: Learn about nanopore sequecning and data analysis by performing your own 16S sequecning experiement!
+  description: Learn - The science behind nanopore sequencing, How to prepare a 16S amplicon library for sequencing, Loading a library onto a MinION flow cell, Sequencing on the MinION platform, Basics of nanopore data, Analysis of our 16S data using Galaxy
+  date: 03-12-2019
+  duration: 2
+  institute: University of Sheffield
+  city: Sheffield
+  location: E13 Dainton Building
+  link: http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-12-03/
+  
+- title: RNA-seq for Beginners
+  subtitle: Overview of the analysis pipeline for RNA-seq
+  description: We will describe the steps involved to go from sequencing library to a list of genes that show statistically significant differences between your biological conditions of interest. Practical sessions will use the user-friendly Galaxy interface (https://usegalaxy.org/) to demonstrate tasks such as alignment, quality control and assessing differential expression
+  date: 09-12-2019
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: Pam Liversidge Design Studio 1 - D06
+  link: http://sbc.shef.ac.uk/training/rna-seq-introduction-2019-12-09/
+
+- title: Data Manipulation and Visualisation
+  subtitle: In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data.
+  description: After the course you should feel confident to start exploring your own dataset using the materials and references provided.
+  date: 03-03-2020
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: Pam Liversidge Design Studio 1 - D06
+  link: http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/
+  
+  
+- title: Statistical Analysis of Biological Data in R
+  subtitle: Using R for the analysis of biological data
+  description: This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
+  date: 05-03-2020
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: Pam Liversidge Design Studio 1 - D06
+  link: http://sbc.shef.ac.uk/training/stats-introduction-2020-03-05/
