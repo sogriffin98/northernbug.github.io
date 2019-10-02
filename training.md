@@ -4,7 +4,7 @@ title: Training
 permalink: /training/
 ---
 
-This page lists the training offered by members of the NortherBUG network.
+This page lists the training offered by members of the NorthernBUG network.
 
 {% assign sorted = site.data.training  | sort: 'date'  %}
 {% for training in sorted %}
