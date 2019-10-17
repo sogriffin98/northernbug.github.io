@@ -281,9 +281,16 @@
   email: fern.johnson@mft.nhs.uk
   interests: Clinical bioinformatics, Clinical genetics
   
- - name: Emily Chambers
+- name: Emily Chambers
   github: evchambers
-  institute: University of Sheffield Bioinformaics Core
+  institute: University of Sheffield Bioinformatics Core
   email: e.v.chambers@sheffield.ac.uk
-  website: http://sbc.shef.ac.uk/
+  website: http://sbc.shef.ac.uk
   twitter: evc_sheffield
+
+- name: Michael Winter
+  github: mrmrwinter
+  institute: University of Hull
+  email: m.r.winter@2016.hull.ac.uk
+  twitter: mrmrwinter
+  interests: Comparative genomics, evolution, phylogenomics, and reproducible bioinformatics. Triopsidae and Nematoda.
