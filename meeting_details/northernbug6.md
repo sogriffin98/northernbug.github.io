@@ -53,7 +53,7 @@ Registration is from 9:30 onwards in University House (see [Location](#Location)
 
 # Registration
 
-Can everyone who wishes to attend please register here: <a href="https://forms.gle/K2NZwsufXS1XRXBM6" target="_blank">NorthernBug6-Registration</a> (**deadline 6th January**).  If you wish to present either a talk or poster, please can you fill in the appropriate sections upon registering. 
+Can everyone who wishes to attend please register here: <a href="https://forms.gle/K2NZwsufXS1XRXBM6" target="_blank">NorthernBug6-Registration</a> (**deadline 8th January**).  If you wish to present either a talk or poster, please can you fill in the appropriate sections upon registering. 
 
 # Location
 
