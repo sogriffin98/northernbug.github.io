@@ -15,45 +15,72 @@ NorthernBUG 6 will be held at the University of Leeds on Friday 24th January 202
 
 ## Day Overview
 
-* 9.30am Coffee and registration
-* 10-12pm Optional Workshop
-    * 10-11am **ChIP-seq analysis processes, pipelines and pitfalls (Dr Ian Donaldson; Manchester)**
-        An overview of the steps of a basic analysis pipeline with info about how each step is performed by some of the most common tools, and considerations for performing the analyses.
-    * 11-12pm **Developing your own peaky blinders (Dr Iros Barozzi; Imperial)**
-        Where ChIP-seq data exploration can take you - i.e. from calling peaks to making hypotheses and designing experiments to iterate back with data analysis
-* 12-1pm Registration, **Lunch and posters**
-    * Optional **Coding-Clinic**.  Get (or provide) help on coding.  If you would like to receive/give coding help please fill in the section 'Coding-Clinic' when registering.
-* 1pm -2.30pm **Research in Progress**
-    * 10-20 minute oral presentations depending on the number of applications
-* 2.30-3pm Coffee break and **posters**
-* 3pm - 4pm **Past and future work**
-    * Overviews of recent bioinformatics methods papers
-    * Grant pitches/recent successes
-        15-20 mins each with number and type of talk depending on who applies for this session
-* 4pm onwards Space reserved at [The Faversham pub](https://thefaversham.com/)
+| Time          | Event | Information |
+|---------------|--------------|-------------|
+| 9:30-10:00 | Morning Registration | Workshop registration and refreshments  |
+| 10:00-12:00 |ChIP-seq Workshop (optional) | ChIP-seq analysis processes: pipelines and pitfalls (Dr Ian Donaldson; Manchester), Developing your own peaky blinders (Dr Iros Barozzi; Imperial)|
+| 12:00-13:00 | Lunch, Afternoon-Registration and Posters | Additional: Coding-clinic |
+| 13:00-14:25 | Research in progress talks | 12 minute talks, 3 mins questions |
+| 14:25-15:00 | Refreshment break and posters | |
+| 15:00-16:00 | Past and Future Work | Success stories and Grant opportunities |
+| 16:00 | Pub | Pub science...  at [The Faversham pub](https://thefaversham.com/)|
 
 
 NorthernBUG is a [Genetics Society](http://www.genetics.org.uk) meeting funded as a sectional interest group, with additional funding from **The Leeds Industry Academy** and [Leeds OMICS](http://www.leedsomics.org/).  It is a user group not a conference so the format will be a little more fluid than just presentations. The meeting will be composed of talks, discussions, and posters, but extended informal discussions of topics and challenges to all of us will be promoted.
 
-# Agenda
+# Detailed Agenda
 
-Registration is from 9:30 onwards in University House (see [Location](#Location) ) We will have coffee. There will then be an optional pre-meeting workshop from 10-12 on ChIP-seq analysis (all are welcome, if you'd like to attend this select *Whole day* when registering).  Main arrival, coffee, and lunch from 12.
+Registration is from 9:30 onwards in University House (see [Location](#Location) ). There will then be an optional pre-meeting workshop from 10-12 on ChIP-seq analysis.  Main arrival, refreshments, and lunch from 12.
 
-## Preliminary outline
+* 9.30am Refreshments and registration
+* 10-12pm **Optional Workshop**
+    * 10-11am **ChIP-seq analysis processes, pipelines and pitfalls (Dr Ian Donaldson; Manchester)**
+        An overview of the steps of a basic analysis pipeline with info about how each step is performed by some of the most common tools, and considerations for performing the analyses.
+    * 11-12pm **Developing your own peaky blinders (Dr Iros Barozzi; Imperial)**
+        Where ChIP-seq data exploration can take you - i.e. from calling peaks to making hypotheses and designing experiments to iterate back with data analysis
+* 12-13:00 Registration, **Lunch and posters**
+    * Optional **Coding-Clinic**.  Get (or provide) help on coding.
 
-| Time          | Speaker | Presentation | Information |
-|---------------|---------|--------------|-------------|
-| 9:30 |  | Registration | Coffee and workshop registration  |
-| 10:00 |  | ChIP-seq Workshop (optional) | ChIP-seq analysis processes: pipelines and pitfalls, Developing your own peaky blinders|
-| 12:00 |  | Lunch/Registration | |
-| 13:00 |  | Research in progress talks | |
-| 14:30 |  | Coffee and posters | |
-| 15:00 |  | Past and Future Work | Journal club / grant opportunities or success stories |
-| 16:00 |  | Pub | Pub science... |
+## Welcome
 
-# Registration
+| Time          | Speaker | Affiliation | Career stage | Talk Title |
+|---------------|---------|--------------|-------------|-------------|
+|13:00-13:10 | David Westhead | University of Leeds | Professor | Welcome to Leeds and NBUG 6 |
 
-Can everyone who wishes to attend please register here: <a href="https://forms.gle/K2NZwsufXS1XRXBM6" target="_blank">NorthernBug6-Registration</a> (**deadline 8th January**).  If you wish to present either a talk or poster, please can you fill in the appropriate sections upon registering. 
+## Research in Progress Talks
+
+12 minute talks with 3 minutes of questions
+
+| Time          | Speaker | Affiliation | Career stage | Talk Title |
+|---------------|---------|--------------|-------------|-------------|
+|13:10-13:25 | Haeyam Taiy |	University of Huddersfield|	Student | European distribution of Borrelia, hantaviruses, ticks and other Apodemus mice-associated organisms based on carryover DNA sequences in RAD-seq data|
+| 13:25-13:40	| Isabel Birds | University of Leeds | Student | Understanding the translation potential and evolution of cytoplasmic long non-coding RNA |
+| 13:40-13:55 | Alexander Predeus | University of Liverpool | Postdoc or researcher | Bacterial GWAS: lessons learned working on 10,000 Salmonella genomes |
+| 13:55-14:10	| Huda Alfardus | University of Leeds | Postdoc or researcher | Discovering early markers of  diabetic vascular disease |
+| 14:10-14:25 | Mudassar Iqbal | University of Manchester | Principal Investigator | SCENIC and beyond |
+
+## Past and Future Work Talks
+
+12 minute talks with 3 minutes of questions
+
+| Time          | Speaker | Affiliation | Career stage | Talk Title |
+|---------------|---------|--------------|-------------|-------------|
+| 15:00-15:15 | Alastair Droop | Sanger Inst & AD Bioinformatics Ltd | Principal Bioinformatician & Industry | Essential Methods for Modern Bioinformatics (containerisation, workflow management & code repositories)|
+| 15:15-15:30 | Conor Meehan | University of Bradford | Principal Investigator | The genomic diversity of Mycobacterium tuberculosis lineage 5 (Mycobacterium africanum West-African 1)|
+| 15:30-15:45 | Luisa Cutillo | University of Leeds | Lecturer | Networks/ co-oscillation Networks/ Networks comparison |
+| 15:45-16:00 | Roy Chaudhuri | University of Sheffield | Principal Investigator | Will discuss a grant proposal I am working on about a comparative microbial genomics database |
+
+## Posters
+
+| Name | Affiliation | Career stage | Poster Title |
+|---------|--------------|-------------|-------------|
+| Alidivinas Prusokas | Newcastle University | Student | Metagenomic-enabled discovery of the plant virome |
+| David Orr | University of Leeds | Student | De novo genome assembly of the Caspian seal (Pusa caspica) |
+| Euan McDonnell | University of Leeds | Student | Dysregulation of ncRNA Gene Regulatory Networks During Lytic Reactivation of Kaposi’s Sarcoma-associated Herpesvirus |
+| Haeyam Taiy | University of Huddersfield | Student | European distribution of Borrelia, hantaviruses, ticks and other Apodemus mice-associated organisms based on carryover DNA sequences in RAD-seq data |
+| Sam Haldenby | University of Liverpool | Postdoc or researcher | Campype: A large-scale bacterial isolate collection analysis pipeline |
+| Shoaib Ali | University of Leeds | Student | Deconvoluting cell type signatures in primary and recurrent glioblastoma tumours |
+
 
 # Location
 
