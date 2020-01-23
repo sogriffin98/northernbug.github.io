@@ -67,7 +67,7 @@ Registration is from 9:30 onwards in University House (see [Location](#Location)
 |---------------|---------|--------------|-------------|-------------|
 | 15:00-15:15 | Alastair Droop | Sanger Inst & AD Bioinformatics Ltd | Principal Bioinformatician & Industry | Essential Methods for Modern Bioinformatics (containerisation, workflow management & code repositories)|
 | 15:15-15:30 | Conor Meehan | University of Bradford | Principal Investigator | The genomic diversity of Mycobacterium tuberculosis lineage 5 (Mycobacterium africanum West-African 1)|
-| 15:30-15:45 | Luisa Cutillo | University of Leeds | Lecturer | Networks/ co-oscillation Networks/ Networks comparison |
+| 15:30-15:45 | Luisa Cutillo | University of Leeds | Lecturer | Networks: Past and Future |
 | 15:45-16:00 | Jarek Bryk | University of Huddersfield | Principal Investigator | 70 years of genetic variation in Apodemus mice: a grant idea |
 
 ## Posters
