@@ -61,7 +61,7 @@
   day: 0
   year: 2020
   institute: TBC
-  city: TBC
+  city: Liverpool
   page: northernbug7
 
 - meeting: NorthernBUG|8
@@ -69,5 +69,13 @@
   day: 0
   year: 2020
   institute: TBC
-  city: TBC
+  city: Manchester
   page: northernbug8
+  
+ - meeting: NorthernBUG|9
+  month: January
+  day: 0
+  year: 2021
+  institute: TBC
+  city: Huddersfield
+  page: northernbug9
