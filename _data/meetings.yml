@@ -59,23 +59,31 @@
 - meeting: NorthernBUG|7
   month: TBA
   day: 0
-  year: 2020
+  year: 2022
   institute: TBA
-  city: Liverpool
+  city: Bradford
   page: northernbug7
 
 - meeting: NorthernBUG|8
   month: TBA
   day: 0
-  year: 2020
+  year: 2023
   institute: TBA
-  city: Manchester
+  city: Liverpool
   page: northernbug8
   
 - meeting: NorthernBUG|9
   month: TBA
   day: 0
-  year: 2021
+  year: 2023
+  institute: TBA
+  city: Manchester
+  page: northernbug9
+  
+- meeting: NorthernBUG|10
+  month: TBA
+  day: 0
+  year: 2023
   institute: TBA
   city: Huddersfield
   page: northernbug9
