@@ -1,6 +1,6 @@
 ---
 layout: meeting
-author: Matthew Care
+author: Matthew Care, Lucy Stead
 title: NorthernBUG 6
 date: 2020-01-24
 institute: The University of Leeds
