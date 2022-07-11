@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Matthew Care
+author: Matthew Care, Lucy Stead
 title: NorthernBUG 6 Leeds
 ---
 
