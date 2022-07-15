@@ -70,9 +70,11 @@ Coming soon
 
 # Speakers
 
+Coming soon
+
 <!--Add speakers here as this template -->
 
-- [**Krzysztof Poterlowicz** -- University of Bradford](https://www.bradford.ac.uk/staff/KPoterlowicz1)
+<!-- - [**Krzysztof Poterlowicz** -- University of Bradford](https://www.bradford.ac.uk/staff/KPoterlowicz1)  -->
 
 
 
