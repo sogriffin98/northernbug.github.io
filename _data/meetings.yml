@@ -57,10 +57,11 @@
   page: northernbug6
 
 - meeting: NorthernBUG|7
-  month: TBA
-  day: 0
+  theme: Data management, visualization, HPC, software environment and containerization
+  month: September
+  day: 9
   year: 2022
-  institute: TBA
+  institute: University of Bradford
   city: Bradford
   page: northernbug7
 
