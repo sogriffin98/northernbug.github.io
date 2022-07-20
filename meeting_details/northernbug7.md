@@ -119,11 +119,11 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 
 We're looking for enticing 10-minute talks followed by a panel discussion with all presenters. If you have any particular requirements, contact us at compdata@bradford.ac.uk
 
-This year we particularly look forward to topics such as:
+This time we particularly look forward to topics such as:
 
-Data Visualization and management
-HPC/software tools
-Software environment and containerization, e.g. conda.
+* Data management and visualization
+* HPC, software environment and containerization
+
 However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our [meetings page](https://northernbug.github.io/meetings/)
 
 [Talk submission](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ)
