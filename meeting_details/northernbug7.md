@@ -107,7 +107,7 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 
 [Registration form](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
 
-**Registration deadline**: 5 September 20212
+**Registration deadline**: 5 September 2022
 
 
 
