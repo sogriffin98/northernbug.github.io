@@ -20,11 +20,11 @@ permalink: northernbug7
 
 # General
 
-NorthenBUG returns with its 7th meeting after a COVID-19 holt. Yet, it comes back with strength, appetite and a new way of understanding gatherings.
+NorthernBUG returns with its 7th meeting after a COVID-19 holt. Yet, it comes back with strength, appetite and a new way of understanding gatherings.
 
-NorthenBUG7 will be hosted this time as a hybrid event. While in-person attendees will have access to the collaborative nature of this community-led event, talks will also be streamed online, providing Q&A channels for virtual participants.
+NorthernBUG7 will be hosted this time as a hybrid event. While in-person attendees will have access to the collaborative nature of this community-led event, talks will also be streamed online, providing Q&A channels for virtual participants.
 
-The meeting will start at 12 pm with lunch, and finish at 5 pm, followed by drinks at a local pub.
+The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by drinks at a local pub.
 
 **Contact**: compdata@bradford.ac.uk
 
@@ -107,13 +107,11 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 
 [Registration form](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
 
-**Registration deadline**: 5 September 2022
+**Registration deadline**: 6 September 2022
 
 
 
 ## Do you want to present?
-
-
 
 ### Propose a talk
 
@@ -121,12 +119,13 @@ We're looking for enticing 10-minute talks followed by a panel discussion with a
 
 This time we particularly look forward to topics such as:
 
-* Data management and visualization
-* HPC, software environment and containerization
+* Data management and visualisation
+* HPC, software environment and containerisation
 
 However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our [meetings page](https://northernbug.github.io/meetings/)
 
-[Talk submission](https://forms.clickup.com/20526645/f/kjdhn-4468/E0G0ODWGJJSF3L4NEJ)
+Indicate your interest in proposing a talk when registering. We'll sned you a message with a link to submit your abstract. 
+**Deadline: 19 August 2022**
 
 
 
@@ -134,5 +133,6 @@ However, if you have any other proposals, we welcome any topics relevant to the 
 
 We encourage people presenting posters also to give a 1-minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible to discuss their poster. Details on the 1-minute teaser talks will be circulated later, but in short, it's 1 minute, 1 slide – and do not try to summarise three years of work, just the 'elevator pitch'.
 
-[Poster submission](https://forms.clickup.com/20526645/f/kjdhn-4428/12UG6D31HMUQRH7DRZ)
+Indicate your interest in proposing a poster when registering. We'll sned you a message with a link to submit your abstract. 
+**Deadline: 19 August 2022**
 
