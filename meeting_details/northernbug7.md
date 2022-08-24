@@ -42,19 +42,19 @@ Coming soon
 
 | 12:00-13:00 | All | Lunch | |
 
-| 13:00-13:05 | Krzysztof Poterlowicz | Introduction | |
+| 13:00-13:10 | Krzysztof Poterlowicz | Welcome remarks/Housekeeping notes | |
 
-| 13:05-13:15 | | | |
+| 13:10-13:20 | Martin Wolstencroft, University of Bradford| Bradford HPC | |
 
-| 13:15-13:30 | | | |
+| 13:20-13:30 | Mark Dunning, University of Sheffield |Reproducible Bioinformatics workflows with nextflow | |
 
-| 13:30-13:45 | | | |
+| 13:30-13:40 | Katarzyna Kamieniecka, University of Bradford/CRUK Manchester |Enabling FAIR in silico data analyses with Nextflow workflow framework | |
 
-| 13:45-14:00 | | | |
+| 13:40-13:50 | Elton Vasconcelos, University of Leeds| Ad hoc dual conda environment-based container for alkaline waste-contaminated topsoil metagenomics data analysis | |
 
-| 14:00-14:15 | | | |
+| 13:50-14:00 | Khaled | | |
 
-| 14:15-14:30 | All |Session Discussion | |
+| 14:00-14:20 | All |Panel discussion with presenters| |
 
 | 14:30-15:30 | All | Coffee Break and Poster Session | |
 
