@@ -16,7 +16,7 @@ NorthernBUG meeting at The Boiler House on Tuesday January 14th 2019.
 
 ![](https://s0.geograph.org.uk/geophotos/05/62/09/5620972_954e20ba_1024x1024.jpg)
 
-<iframe height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.664651452773!2d-1.6181748839598145!3d54.978979858871156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cc6ec35d25%3A0xd0d558159c106de1!2sThe+Boiler+House!5e0!3m2!1sen!2suk!4v1515585344838" style="border: 0;" width="600" allowfullscreen></iframe>
+<iframe height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.664651452773!2d-1.6181748839598145!3d54.978979858871156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cc6ec35d25%3A0xd0d558159c106de1!2sThe+Boiler+House!5e0!3m2!1sen!2suk!4v1515585344838&maptype=satellite" style="border: 0;" width="600" allowfullscreen></iframe>
 
 
 # Agenda
