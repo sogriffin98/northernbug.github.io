@@ -54,9 +54,9 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 | 13:50-14:00 | TBC | TBC | |
 
-| 14:00-14:20 | All |Panel discussion with presenters| |
+| 14:00-14:20 | All | Panel discussion with presenters| |
 
-| 14:20-14:30 | TBC |1 min Teaser talks | |
+| 14:20-14:30 | TBC | 1 min Teaser talks | |
  
 | 14:30-15:30 | All | Coffee Break and Poster Session | |
 
@@ -64,19 +64,19 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 | 15:40-15:50 | Andrew Mason | Undervalued housekeeping: remapping of The Cancer Genome Atlas identifies missing genes and tumour heterogeneity | |
 
-| 15:50-16:00 | Euan McDonnell|Dissecting the Interplay Between Viral Gene Expression And Host Cell Dysregulation in Kaposi's Sarcoma via Co-Expression Network |
+| 15:50-16:00 | Euan McDonnell | Dissecting the Interplay Between Viral Gene Expression And Host Cell Dysregulation in Kaposi's Sarcoma via Co-Expression Network |
 
-| 16:00-16:10 |Khaled Jumah| TBC| |
+| 16:00-16:10 | Khaled Jumah | TBC| |
 
-| 16:10-16:20 |Jarek Bryk| Chimeric sequences in RAD-seq | |
+| 16:10-16:20 | Jarek Bryk | Chimeric sequences in RAD-seq | |
 
-| 16:20-16:30 |Sara Morsy| In the Era of individualized medicine how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders| |
+| 16:20-16:30 | Sara Morsy | In the Era of individualized medicine how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders | |
 
-| 16:30-16:50 | All |Panel discussion with presenters| |
+| 16:30-16:50 | All | Panel discussion with presenters | |
 
-| 16:50-17:00 | All |Closing Remarks| |
+| 16:50-17:00 | All | Closing Remarks | |
 
-| 17:00- | All | Drinks - Bradford BrewDog |11 Great Horton Rd Bradford BD7 1AJ |
+| 17:00- | All | Drinks - Bradford BrewDog | 11 Great Horton Rd Bradford BD7 1AJ |
 
 
 <!--
