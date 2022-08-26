@@ -48,7 +48,7 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 | 13:20-13:30 | Mark Dunning |Reproducible Bioinformatics workflows with nextflow | |
 
-| 13:30-13:40 | Katarzyna Kamieniecka |Enabling FAIR in silico data analyses with Nextflow workflow framework | |
+| 13:30-13:40 | Katarzyna Kamieniecka |E nabling FAIR in silico data analyses with Nextflow workflow framework | |
 
 | 13:40-13:50 | Elton Vasconcelos | Ad hoc dual conda environment-based container for alkaline waste-contaminated topsoil metagenomics data analysis | |
 
@@ -71,13 +71,13 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 | 16:10-16:20 |Jarek Bryk| Chimeric sequences in RAD-seq| |
 
-| 16:20-16:30 |Sara Morsy| In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders| |
+| 16:20-16:30 |Sara Morsy| In the Era of individualized medicine how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders| |
 
 | 16:30-16:50 | All |Panel discussion with presenters| |
 
 | 16:50-17:00 | All |Closing Remarks| |
 
-| 17:00- | All | Drinks - Bradford BrewDog | [BrewDog, 11 Great Horton Rd, Bradford BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6), Bradford  |
+| 17:00- | All | Drinks - Bradford BrewDog | [BrewDog, 11 Great Horton Rd, Bradford BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6) Bradford  |
 
 
 <!--
