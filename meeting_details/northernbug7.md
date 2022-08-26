@@ -77,7 +77,7 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 | 16:50-17:00 | All |Closing Remarks| |
 
-| 17:00- | All | Drinks - [BrewDog, 11 Great Horton Rd, Bradford BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6), Bradford | |
+| 17:00- | All | Drinks - Bradford BrewDog | [BrewDog, 11 Great Horton Rd, Bradford BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6), Bradford  |
 
 
 <!--
