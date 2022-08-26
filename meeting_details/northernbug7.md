@@ -10,10 +10,6 @@ date: 09 Sept 2022
 
 institute: University of Bradford
 
-postcode:
-
-address:
-
 permalink: northernbug7
 
 ---
