@@ -32,9 +32,9 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 # Agenda
 
-Coming soon
+ 
 
-<!--
+
 
 | Time | Speaker | Presentation | Information |
 
@@ -44,33 +44,48 @@ Coming soon
 
 | 13:00-13:10 | Krzysztof Poterlowicz | Welcome remarks/Housekeeping notes | |
 
-| 13:10-13:20 | Martin Wolstencroft, University of Bradford| Bradford HPC | |
+| 13:10-13:20 | Martin Wolstencroft | Bradford HPC | |
 
-| 13:20-13:30 | Mark Dunning, University of Sheffield |Reproducible Bioinformatics workflows with nextflow | |
+| 13:20-13:30 | Mark Dunning |Reproducible Bioinformatics workflows with nextflow | |
 
-| 13:30-13:40 | Katarzyna Kamieniecka, University of Bradford/CRUK Manchester |Enabling FAIR in silico data analyses with Nextflow workflow framework | |
+| 13:30-13:40 | Katarzyna Kamieniecka |Enabling FAIR in silico data analyses with Nextflow workflow framework | |
 
-| 13:40-13:50 | Elton Vasconcelos, University of Leeds| Ad hoc dual conda environment-based container for alkaline waste-contaminated topsoil metagenomics data analysis | |
+| 13:40-13:50 | Elton Vasconcelos | Ad hoc dual conda environment-based container for alkaline waste-contaminated topsoil metagenomics data analysis | |
 
-| 13:50-14:00 | Khaled | | |
+| 13:50-14:00 | TBC | TBC | |
 
 | 14:00-14:20 | All |Panel discussion with presenters| |
 
+| 14:20-14:30 | TBC |1 min Teaser talks | |
+ 
+ 
 | 14:30-15:30 | All | Coffee Break and Poster Session | |
 
-| 15:30-15:45 | | | |
+| 15:30-15:40 |Xenia Perez-Sitja | TBC | |
 
-| 15:45-16:00 | | | |
+| 15:40-15:50 |Andrew Mason |Undervalued housekeeping: remapping of The Cancer Genome Atlas identifies missing genes and tumour heterogeneity | |
 
-| 16:00-16:30 | All |Closing Remarks and Discussion | |
+| 15:50-16:00 | Euan McDonnell|Dissecting the Interplay Between Viral Gene Expression And Host Cell Dysregulation in Kaposi's Sarcoma via Co-Expression Network |
 
-| 16:30- | All | Drinks - Sunbridge Wells, Bradford | |
+| 16:00-16:10 |Khaled Jumah| TBC| |
 
--->
+| 16:10-16:20 |Jarek Bryk| Chimeric sequences in RAD-seq| |
 
+| 16:20-16:30 |Sara Morsy| In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders| |
+
+| 16:30-16:50 | All |Panel discussion with presenters| |
+
+| 16:50-17:00 | All |Closing Remarks| |
+
+| 17:00- | All | Drinks - [BrewDog, 11 Great Horton Rd, Bradford BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6), Bradford | |
+
+
+<!--
 # Speakers
 
 Coming soon
+
+-->
 
 <!--Add speakers here as this template -->
 
@@ -125,7 +140,7 @@ This time we particularly look forward to topics such as:
 However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our [meetings page](https://northernbug.github.io/meetings/)
 
 Indicate your interest in proposing a talk when registering. We'll sned you a message with a link to submit your abstract. 
-**Deadline: 19 August 2022**
+**CLOSED**
 
 
 
@@ -133,6 +148,6 @@ Indicate your interest in proposing a talk when registering. We'll sned you a me
 
 We encourage people presenting posters also to give a 1-minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible to discuss their poster. Details on the 1-minute teaser talks will be circulated later, but in short, it's 1 minute, 1 slide – and do not try to summarise three years of work, just the 'elevator pitch'.
 
-Indicate your interest in proposing a poster when registering. We'll sned you a message with a link to submit your abstract. 
-**Deadline: 19 August 2022**
+Indicate your interest in proposing a poster when registering. We'll sened you a message with a link to submit your abstract. 
+**CLOSED**
 
