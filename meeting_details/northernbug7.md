@@ -100,7 +100,6 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 **Registration deadline**: 6 September 2022
 
 
-
 ## Do you want to present?
 
 ### Propose a talk
