@@ -24,7 +24,7 @@ NorthernBUG returns with its 7th meeting after a COVID-19 holt. Yet, it comes ba
 
 NorthernBUG7 will be hosted this time as a hybrid event. While in-person attendees will have access to the collaborative nature of this community-led event, talks will also be streamed online, providing Q&A channels for virtual participants.
 
-The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by drinks at a local pub.
+The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by drinks at a [local pub](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6).
 
 **Contact**: compdata@bradford.ac.uk
 
@@ -104,25 +104,11 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 ## Do you want to present?
 
 ### Propose a talk
-
-We're looking for enticing 10-minute talks followed by a panel discussion with all presenters. If you have any particular requirements, contact us at compdata@bradford.ac.uk
-
-This time we particularly look forward to topics such as:
-
-* Data management and visualisation
-* HPC, software environment and containerisation
-
-However, if you have any other proposals, we welcome any topics relevant to the NorthenBUG audience. You can view previous topics and agendas on our [meetings page](https://northernbug.github.io/meetings/)
-
-Indicate your interest in proposing a talk when registering. We'll sned you a message with a link to submit your abstract. 
+ 
 **CLOSED**
 
 
 
 ### Submit a poster abstract
-
-We encourage people presenting posters also to give a 1-minute teaser talk. These are great for those who might not be ready to give a full talk but would like to advertise their topic and get as many people as possible to discuss their poster. Details on the 1-minute teaser talks will be circulated later, but in short, it's 1 minute, 1 slide – and do not try to summarise three years of work, just the 'elevator pitch'.
-
-Indicate your interest in proposing a poster when registering. We'll sened you a message with a link to submit your abstract. 
 **CLOSED**
 
