@@ -98,16 +98,3 @@ Use the form to register at no cost to attend both in-person and online. We'll s
 [Registration form](https://forms.clickup.com/20526645/f/kjdhn-4408/CKSR1UQII08ERURNX3)
 
 **Registration deadline**: 6 September 2022
-
-
-## Do you want to present?
-
-### Propose a talk
- 
-**CLOSED**
-
-
-
-### Submit a poster abstract
-**CLOSED**
-
