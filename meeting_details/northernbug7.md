@@ -24,7 +24,7 @@ NorthernBUG returns with its 7th meeting after a COVID-19 holt. Yet, it comes ba
 
 NorthernBUG7 will be hosted this time as a hybrid event. While in-person attendees will have access to the collaborative nature of this community-led event, talks will also be streamed online, providing Q&A channels for virtual participants.
 
-The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by drinks at a [local pub](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6).
+The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by drinks at a [local pub](https://www.google.com/maps/dir/Norcroft+Centre,+University+of+Bradford,+Richmond+Rd,+Bradford+BD7+1DP/brewdog+bradford/@53.7916189,-1.763689,394m/data=!3m2!1e3!5s0x487be14a562e6349:0x3ad2e677d5931f01!4m13!4m12!1m5!1m1!1s0x487be6b5040ab98f:0x1527cafe37f4a936!2m2!1d-1.7645026!2d53.7924269!1m5!1m1!1s0x487be1393004e46f:0x55f0fd062a5f5695!2m2!1d-1.7579253!2d53.7914123).
 
 **Contact**: compdata@bradford.ac.uk
 
@@ -52,7 +52,7 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 | 16:20-16:30 | Sara Morsy | In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders | 
 | 16:30-16:50 | All | Panel discussion with presenters | 
 | 16:50-17:00 | All | Closing Remarks | 
-| 17:00- | All | [Drinks - Bradford BrewDog, 11 Great Horton Rd, BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6)  |
+| 17:00- | All | [Drinks - Bradford BrewDog, 11 Great Horton Rd, BD7 1AJ](https://www.google.com/maps/dir/Norcroft+Centre,+University+of+Bradford,+Richmond+Rd,+Bradford+BD7+1DP/brewdog+bradford/@53.7916189,-1.763689,394m/data=!3m2!1e3!5s0x487be14a562e6349:0x3ad2e677d5931f01!4m13!4m12!1m5!1m1!1s0x487be6b5040ab98f:0x1527cafe37f4a936!2m2!1d-1.7645026!2d53.7924269!1m5!1m1!1s0x487be1393004e46f:0x55f0fd062a5f5695!2m2!1d-1.7579253!2d53.7914123)  |
 
 
 <!--
