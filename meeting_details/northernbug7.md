@@ -52,7 +52,7 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 | 16:20-16:30 | Sara Morsy | In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders | 
 | 16:30-16:50 | All | Panel discussion with presenters | 
 | 16:50-17:00 | All | Closing Remarks | 
-| 17:00- | All | [Drinks - Bradford BrewDog, 11 Great Horton Rd,BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6)  |
+| 17:00- | All | [Drinks - Bradford BrewDog, 11 Great Horton Rd, BD7 1AJ](https://goo.gl/maps/XFsGi3S1AkQXR5Vz6)  |
 
 
 <!--
