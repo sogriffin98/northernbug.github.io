@@ -32,7 +32,7 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 |------|---------|--------------|
 | 12:00-13:00 | All | Lunch |
 | 13:00-13:10 | Krzysztof Poterlowicz | Welcome remarks / Housekeeping notes | 
-| 13:10-13:20 | Martin Wolstencroft | Bradford HPC |
+| 13:10-13:20 | Martin Wolstencroft | Infrastructure for bioinformatics: impressions and challenges |
 | 13:20-13:30 | Mark Dunning |Reproducible Bioinformatics workflows with nextflow |
 | 13:30-13:40 | Katarzyna Kamieniecka |Enabling FAIR in silico data analyses with Nextflow workflow framework |
 | 13:40-13:50 | Elton Vasconcelos | Ad hoc dual conda environment-based container for alkaline waste-contaminated topsoil metagenomics data analysis | 
