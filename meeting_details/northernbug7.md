@@ -39,9 +39,8 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 | 13:50-14:00 | Matthew Parker | TEPI2ME Labs: Bioinformatics of anything, anywhere, by anyone | 
 | 14:00-14:20 | All | Panel discussion with presenters| 
 | 14:20-14:30 | Xin Ma, Jessica Budle, Vlad Ungureanu, Roza Bilas| 1 min Poster Teaser talks | 
- | 14:30-15:30 | All | Coffee Break and Poster Session |
+| 14:30-15:30 | All | Coffee Break and Poster Session |
 | 15:30-15:40 | Xenia Perez-Sitja | Data Stewardship –professionalising an invaluable role|
- | 
 | 15:40-15:50 | Andrew Mason | Undervalued housekeeping: remapping of The Cancer Genome Atlas identifies missing genes and tumour heterogeneity | |
 | 15:50-16:00 | Euan McDonnell | Dissecting the Interplay Between Viral Gene Expression And Host Cell Dysregulation in Kaposi's Sarcoma via Co-Expression Network |
 | 16:00-16:10 | Khaled Jumah | ELIXIR-hCNV: Galaxy workflows and training| 
