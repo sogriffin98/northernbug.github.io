@@ -28,8 +28,8 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 
 # Agenda
 
-| Time | Speaker | Presentation |
-|------|---------|--------------|
+| Time         | Speaker     | Presentation                              |
+|-------------|-----------------------|----------------------------------|
 | 12:00-13:00 | All | Lunch |
 | 13:00-13:10 | Krzysztof Poterlowicz | Welcome remarks / Housekeeping notes | 
 | 13:10-13:20 | Martin Wolstencroft | Infrastructure for bioinformatics: impressions and challenges |
