@@ -42,12 +42,11 @@ The meeting will start at 12 pm with a lunch, and finish at 5 pm, followed by dr
 | 14:30-15:30 | All | Coffee Break and Poster Session |
 | 15:30-15:40 | Xenia Perez-Sitja | Data Stewardship –professionalising an invaluable role|
 | 15:40-15:50 | Andrew Mason | Undervalued housekeeping: remapping of The Cancer Genome Atlas identifies missing genes and tumour heterogeneity | 
-| 15:50-16:00 | Euan McDonnell | Dissecting the Interplay Between Viral Gene Expression And Host Cell Dysregulation in Kaposi's Sarcoma via Co-Expression Network |
-| 16:00-16:10 | Khaled Jumah | ELIXIR-hCNV: Galaxy workflows and training| 
-| 16:10-16:20 | Jarek Bryk | Chimeric sequences in RAD-seq | 
-| 16:20-16:30 | Sara Morsy | In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders | 
-| 16:30-16:50 | All | Panel discussion with presenters | 
-| 16:50-17:00 | All | Closing Remarks | 
+| 15:50-16:00 | Khaled Jumah | ELIXIR-hCNV: Galaxy workflows and training| 
+| 16:00-16:10 | Jarek Bryk | Chimeric sequences in RAD-seq | 
+| 16:10-16:20 | Sara Morsy | In the Era of individualized medicine, how FAIR genomic data can drive clinical decision: A case study on autism spectrum disorders | 
+| 16:20-16:40 | All | Panel discussion with presenters | 
+| 16:40-16:50 | All | Closing Remarks | 
 | 17:00- | All | [Drinks - Bradford BrewDog, 11 Great Horton Rd, BD7 1AJ](https://www.google.com/maps/dir/Norcroft+Centre,+University+of+Bradford,+Richmond+Rd,+Bradford+BD7+1DP/brewdog+bradford/@53.7916189,-1.763689,394m/data=!3m2!1e3!5s0x487be14a562e6349:0x3ad2e677d5931f01!4m13!4m12!1m5!1m1!1s0x487be6b5040ab98f:0x1527cafe37f4a936!2m2!1d-1.7645026!2d53.7924269!1m5!1m1!1s0x487be1393004e46f:0x55f0fd062a5f5695!2m2!1d-1.7579253!2d53.7914123)  |
 
 
