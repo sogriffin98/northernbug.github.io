@@ -66,25 +66,25 @@
   page: northernbug7
 
 - meeting: NorthernBUG|8
-  month: TBA
+  month: January
   day: 0
   year: 2023
   institute: TBA
-  city: Liverpool
+  city: Huddersfield or York
   page: northernbug8
   
 - meeting: NorthernBUG|9
-  month: TBA
+  month: June
   day: 0
   year: 2023
   institute: TBA
-  city: Manchester
+  city: Liverpool or Manchester
   page: northernbug9
   
 - meeting: NorthernBUG|10
-  month: TBA
+  month: September
   day: 0
   year: 2023
   institute: TBA
-  city: Huddersfield
-  page: northernbug9
+  city: TBA
+  page: northernbug10
