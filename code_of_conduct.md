@@ -4,8 +4,6 @@ title: Code of conduct
 permalink: /code_of_conduct/
 ---
 
-## Northern Bioinformatics User Group: Code of Professional Conduct 
- 
 The Northern Bioinformatics User Group (NBUG) is a network of bioinformaticians and users of bioinformatics services in the north of England. As a community of researchers and others using big data in biology we aim to promote, support and train in both the widespread application of computational approaches to a large variety of biological questions, and the storage, mining and visualisation of biological and medical data. The goal of our quarterly user groups meetings, supported by The Genetics Society, is to consolidate and share information and resources relating to the latest research and training in computational biology approaches and the application thereof. These aims are best achieved if there is mutual trust based upon honest behaviour and the fostering of a welcoming and inclusive environment throughout the community. 
  
 The below guidelines are not meant to be an exhaustive list of expected and unacceptable behaviours. NBUG expects all members to adhere to high standards of honesty and integrity in their actions within and outside of the user group itself. 
