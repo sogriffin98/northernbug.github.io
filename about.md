@@ -8,4 +8,4 @@ NorthernBUG is a network of broadly defined bioinformaticians and users or bioin
 
 We strongly believe that NorthernBUG creates an important niche for researchers using computational techniques across the participating institutions and beyond. With its emphasis on practical and best practice, as well as allowing work-in-progress and informal exchange of information it is a unique source of support and a friendly peer network.
 
-We are supported by [The Genetics Society](https://genetics.org.uk) as a [Special Interest Group](https://genetics.org.uk/events_categories/special-interest-groups/). For a more detailed view of our meetings, please read this [report from the northernBUG 6 in Leeds](https://genetics.org.uk/wp-content/uploads/2017/09/Issue-85.pdf) (pdf, page 21)).
+We are supported by [The Genetics Society](https://genetics.org.uk) as a [Special Interest Group](https://genetics.org.uk/events_categories/special-interest-groups/). For a more detailed view of our meetings, please read this [report from the northernBUG 6 in Leeds](assets/nbug_gensoc_meeting_report.pdf).
