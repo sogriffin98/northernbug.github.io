@@ -1,11 +1,11 @@
 ---
 layout: meeting
-author: Lucy Stead
+author: Jarek Bryk
 title: NorthernBUG 8
-date:  TBC September 2020
-institute: TBC
-postcode: 
-address: 
+date:  13 January 2022
+institute: Department of Biological and Geographical Sciences, University of Huddersfield
+postcode: HD1 3DH
+address: Queensgate, Huddersfield
 permalink: northernbug8
 ---
 
