@@ -2,7 +2,7 @@
 layout: meeting
 author: Jarek Bryk
 title: NorthernBUG 8
-date:  13 January 2022
+date:  13 January 2023
 institute: Department of Biological and Geographical Sciences, University of Huddersfield
 postcode: HD1 3DH
 address: Queensgate, Huddersfield
