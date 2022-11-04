@@ -36,7 +36,7 @@ The agenda is provisional at this stage :-)
 | 15:45-16:00 |  |  |  |
 | 16:00-16:15 |  |  |  |
 | 16:15-16:30 |  |  |  |
-| 16:30-16:45 | Closing notes + pub session :-) |  |  |
+| 16:30-17:00 | Closing discussion + pub session :-) |  |  |
 
 # Speakers
 
@@ -45,11 +45,5 @@ The agenda is provisional at this stage :-)
 [Dr Mark Ravinet](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), Assistant Professor of Adaptation to the Environment, University of Nottingham
 
 [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Principal Bioinformatician, Immune Genomics Group, Wellcome Sanger Institute
-
-## Accepted
-
-
-## Student
-
 
 # Registration
