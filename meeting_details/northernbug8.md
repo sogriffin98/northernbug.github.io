@@ -17,7 +17,7 @@ permalink: northernbug8
 
 # Agenda
 
-The agenda is provisional at this stage :-)
+The agenda is provisional at this stage :-) If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
