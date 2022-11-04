@@ -17,10 +17,12 @@ permalink: northernbug8
 
 # Agenda
 
+The agenda is provisional at this stage :-)
+
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 10:00-10:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
-| 11:00-11:50 | Dr Anna Lorenc, Wellcome Sanger Institute | TBA |  |
+| 11:00-11:50 | Dr Anna Lorenc, Wellcome Sanger Institute | Beginner's guide to single cell RNA-seq |  |
 | 12:00-12:50 | Lunch break |  |  |
 | 12:50-13:00 | Welcome notes |  |  |
 | 13:10-13:25 |  |  |  |
