@@ -19,24 +19,29 @@ permalink: northernbug8
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
-| 12:00-13:00 |  | Lunch |  |
-| 13:00-13:10 |  |  |  |
-| 13:10-13:20 |  |  |  |
-| 13:20-13:40 |  |  |  |
-| 13:40-13:50 |  |  |  |
-| 13:50-14:20 |  |  |  |
-| 14:20-14:30 |  |  |  |
-| 14:30-15:00 |  |  |  |
-| 15:00-15:20 |  | Coffee |  |
-| 15:20-15:30 |  |  |  |
-| 15:30-16:00 |  |  |  |
-| 16:00-16:30 |  |  |  |
-| 16:30-17:00 |  | Drinks  |  |
+| 10:00-10:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
+| 11:00-11:50 | Dr Anna Lorenc, Wellcome Sanger Institute | TBA |  |
+| 12:00-12:50 | Lunch break |  |  |
+| 12:50-13:00 | Welcome notes |  |  |
+| 13:10-13:25 |  |  |  |
+| 13:25-13:50 |  |  |  |
+| 13:50-14:15 |  |  |  |
+| 14:15-14:30 |  |  |  |
+| 14:30-14:45 |  |  |  |
+| 14:45-14:55 | Poster teaser talks |  |  |
+| 14:55-15:45 | Coffee + poster session break |  |  |
+| 15:45-16:00 |  |  |  |
+| 16:00-16:15 |  |  |  |
+| 16:15-16:30 |  |  |  |
+| 16:30-16:45 |  |  |  |
+| 16:30-16:45 | Closing notes + pub session :-) |  |  |
 
 # Speakers
 
 ## Invited
 
+[Dr Mark Ravinet](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), Assistant Professor of Adaptation to the Environment, University of Nottingham
+[Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Principal Bioinformatician, Immune Genomics Group, Wellcome Sanger Institute
 
 ## Accepted
 
