@@ -24,16 +24,16 @@ permalink: northernbug8
 | 12:00-12:50 | Lunch break |  |  |
 | 12:50-13:00 | Welcome notes |  |  |
 | 13:10-13:25 |  |  |  |
-| 13:25-13:50 |  |  |  |
-| 13:50-14:15 |  |  |  |
-| 14:15-14:30 |  |  |  |
-| 14:30-14:45 |  |  |  |
-| 14:45-14:55 | Poster teaser talks |  |  |
-| 14:55-15:45 | Coffee + poster session break |  |  |
+| 13:25-13:40 |  |  |  |
+| 13:40-14:55 |  |  |  |
+| 14:55-14:10 |  |  |  |
+| 14:10-14:25 |  |  |  |
+| 14:25-14:35 | Poster teaser talks |  |  |
+| 14:35-15:30 | Coffee + poster session break |  |  |
+| 15:30-15:45 |  |  |  |
 | 15:45-16:00 |  |  |  |
 | 16:00-16:15 |  |  |  |
 | 16:15-16:30 |  |  |  |
-| 16:30-16:45 |  |  |  |
 | 16:30-16:45 | Closing notes + pub session :-) |  |  |
 
 # Speakers
@@ -41,6 +41,7 @@ permalink: northernbug8
 ## Invited
 
 [Dr Mark Ravinet](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), Assistant Professor of Adaptation to the Environment, University of Nottingham
+
 [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Principal Bioinformatician, Immune Genomics Group, Wellcome Sanger Institute
 
 ## Accepted
