@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jarek Bryk
-title: NorthernBUG 8 is on: Huddersfield 13th January 2023. Registration is open!
+title: NorthernBUG 8 is taking place in Huddersfield on 13th January 2023. Registration is open!
 ---
 
 We are very exited to announce that the next edition of the NorthernBUG meetings is taking place at the University of Huddersfield, on Friday, 13th January 2023. 
