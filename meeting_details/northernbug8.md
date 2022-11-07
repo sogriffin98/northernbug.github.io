@@ -49,4 +49,4 @@ The agenda is provisional at this stage :-) If you have a suggestion you'd like 
 
 # Registration
 
-[Registration form: https://bit.ly/nbug8_registration](https://bit.ly/nbug8/_registration). Deadline for registration: _midnight on Monday, December 19th_.
+[Registration form: https://bit.ly/nbug8_registration](https://bit.ly/nbug8_registration). Deadline for registration: _midnight on Monday, December 19th_.
