@@ -11,6 +11,7 @@ permalink: northernbug8
 
 # General
 
+The meeting will take place in the Department of Biological and Geographical Sciences, University of Huddersfield, in the Joseph Priestley building south, room JPSG/18 (ground floor, room number 18).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254.7189472544998!2d-1.7793714549217128!3d53.64293718480601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe62c355275c8c19e!2zNTPCsDM4JzM0LjYiTiAxwrA0Nic0NS4zIlc!5e0!3m2!1sen!2suk!4v1667813529532!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
