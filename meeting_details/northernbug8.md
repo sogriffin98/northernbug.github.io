@@ -47,3 +47,5 @@ The agenda is provisional at this stage :-) If you have a suggestion you'd like 
 [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Principal Bioinformatician, Immune Genomics Group, Wellcome Sanger Institute
 
 # Registration
+
+Registration form: https://bit.ly/nbug8_registration. Deadline for registration: midnight on Monday, December 19th.
