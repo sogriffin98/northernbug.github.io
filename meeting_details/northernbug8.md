@@ -11,7 +11,7 @@ permalink: northernbug8
 
 # General
 
-The organising committee for nothernBUG8 is, in alphabetical order: Toni Beevers, Dr Jarek Bryk, Dora Marcec, Dr Martin Carr, Dr Kirsty McGiven and Dr Maria Pala. Emails should be directed to Jarek at j.bryk@hud.ac.uk.
+The organising committee for nothernBUG8 is, in alphabetical order: Toni Beevers, Dr Jarek Bryk, Dr Martin Carr, Dora Marcec, Dr Kirsty McGiven and Dr Maria Pala. Emails should be directed to Jarek at j.bryk@hud.ac.uk.
 
 The meeting will take place in the Department of Biological and Geographical Sciences, University of Huddersfield, in the Joseph Priestley building south, room JPSG/18 (ground floor, room number 18).
 
