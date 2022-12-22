@@ -51,4 +51,4 @@ The agenda is provisional at this stage :-) If you have a suggestion you'd like 
 
 # Registration
 
-Registration form is open at: [https://bit.ly/nbug8_registration](https://bit.ly/nbug8_registration). Deadline for registration: midnight on Monday, December 19th.
+Registration form is open at: [https://bit.ly/nbug8_registration](https://bit.ly/nbug8_registration). Deadline for registration was at midnight on Monday, December 19th, however we will keep the form open until we will run out of lunch portions ;-)
