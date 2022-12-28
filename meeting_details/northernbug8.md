@@ -33,7 +33,7 @@ The agenda is provisional at this stage :-) If you have a suggestion you'd like 
 | 13:40-14:55 | Nazia Ahmed | TBA | PhD student |
 | 14:55-14:10 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
 | 14:10-14:25 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
-| 14:25-14:35 | Poster teaser talks |  |  |
+| 14:25-14:35 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason, Mike Winter |  |
 | 14:35-15:30 | Coffee + poster session break |  |  |
 | 15:30-15:45 | Merideth 	Freiheit | Adaptive sequencing with Nanopore | PhD student |
 | 15:45-16:00 | TBA |  |  |
