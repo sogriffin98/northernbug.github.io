@@ -29,13 +29,13 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 12:00-12:50 | Lunch break |  |  |
 | 12:50-13:00 | Welcome notes |  |  |
 | 13:10-13:25 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
-| 13:25-13:40 | Mike Winter | Genome assembly of Meloidogyne javanica, a mitotically parthenogenetic allopolyploid root-knot nematode | PhD student |
+| 13:25-13:40 | Merideth 	Freiheit | Adaptive sequencing with Nanopore | PhD student |
 | 13:40-14:55 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
 | 14:55-14:10 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
 | 14:10-14:25 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
-| 14:25-14:35 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason, Mike Winter |  |
+| 14:25-14:35 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
 | 14:35-15:30 | Coffee + poster session break |  |  |
-| 15:30-15:45 | Merideth 	Freiheit | Adaptive sequencing with Nanopore | PhD student |
+| 15:30-15:45 | TBA |  |  |
 | 15:45-16:00 | TBA |  |  |
 | 16:00-16:15 | Jarek Bryk | Five-ish tips to make your work in R a bit smoother | PI |
 | 16:15-16:30 | Alastair Droop | A lightning introduction to Rust | PI |
