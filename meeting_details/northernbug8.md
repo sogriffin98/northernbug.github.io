@@ -39,7 +39,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 15:45-16:00 | TBA |  |  |
 | 16:00-16:15 | Jarek Bryk | Five-ish tips to make your work in R a bit smoother | PI |
 | 16:15-16:30 | Alastair Droop | A lightning introduction to Rust | PI |
-| 16:30-17:00 | Closing discussion + pub session :-) |  |  |
+| 16:30-17:00 | Closing discussion + pub session :-) | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building |  |
 
 # Speakers
 
