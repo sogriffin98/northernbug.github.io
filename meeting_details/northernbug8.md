@@ -37,7 +37,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 15:35-15:55 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
 | 15:55-16:15 | Jarek Bryk | Five-ish tips to make your work in R a bit smoother | PI |
 | 16:35-16:55 | Alastair Droop | A lightning introduction to Rust | PI |
-| 16:30-17:00 | Closing discussion + pub session :-) | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building |  |
+| 16:55-17:15 | Closing discussion + pub session :-) | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building |  |
 
 # Speakers
 
