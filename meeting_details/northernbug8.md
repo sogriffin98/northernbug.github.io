@@ -26,19 +26,17 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 |---------------|---------|--------------|-------------|
 | 10:00-10:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
 | 11:00-11:50 | Dr Anna Lorenc, Wellcome Sanger Institute | Beginner's guide to single cell RNA-seq |  |
-| 12:00-12:50 | Lunch break |  |  |
-| 12:50-13:00 | Welcome notes |  |  |
-| 13:10-13:25 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
-| 13:25-13:40 | Merideth 	Freiheit | Adaptive sequencing with Nanopore | PhD student |
-| 13:40-14:55 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
-| 14:55-14:10 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
-| 14:10-14:25 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
-| 14:25-14:35 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
-| 14:35-15:30 | Coffee + poster session break |  |  |
-| 15:30-15:45 | TBA |  |  |
-| 15:45-16:00 | TBA |  |  |
-| 16:00-16:15 | Jarek Bryk | Five-ish tips to make your work in R a bit smoother | PI |
-| 16:15-16:30 | Alastair Droop | A lightning introduction to Rust | PI |
+| 12:00-13:00 | Lunch break |  |  |
+| 13:00-13:15 | Welcome notes |  |  |
+| 13:15-13:35 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
+| 13:35-13:55 | Merideth 	Freiheit | Adaptive sequencing with Nanopore | PhD student |
+| 13:55-14:15 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
+| 14:15-14:30 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
+| 14:30-15:15 | Coffee + poster session break |  |  |
+| 15:15-15:35 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
+| 15:35-15:55 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
+| 15:55-16:15 | Jarek Bryk | Five-ish tips to make your work in R a bit smoother | PI |
+| 16:35-16:55 | Alastair Droop | A lightning introduction to Rust | PI |
 | 16:30-17:00 | Closing discussion + pub session :-) | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building |  |
 
 # Speakers
