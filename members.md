@@ -23,6 +23,7 @@ Please add yourself to this page! Either [sign up here](../member_registration.h
 - Emily Johnson, University of Liverpool
 - Deepthi Paidipati, University of Bradford
 - Michael Winter, University of Hull
+- Jamie Soul, University of Liverpool
 
 ## Current Members
 
