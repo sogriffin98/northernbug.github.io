@@ -31,13 +31,13 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:15-13:35 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
 | 13:35-13:55 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
 | 13:55-14:15 | Martina Finetti | TBA | Postdoc |
-| 14:15-14:20 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
-| 14:20-15:15 | Coffee + poster session break |  |  |
-| 15:15-15:35 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
-| 15:35-15:55 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
-| 15:55-16:15 | Merideth Freiheit | Adaptive sequencing with Nanopore | PhD student |
-| 16:35-16:55 | Alastair Droop | A lightning introduction to Rust | PI |
-| 16:55-17:15 | Closing discussion + pub session :-) | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building |  |
+| 14:15-14:35 | Merideth Freiheit | Adaptive sequencing with Nanopore | PhD student |
+| 14:35-14:45 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
+| 14:45-15:30 | Coffee + poster session break |  |  |
+| 15:30-15:50 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
+| 15:50-16:10 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
+| 16:10-16:30 | Alastair Droop | A lightning introduction to Rust | PI |
+| 16:30-17:00 | Closing discussion + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
 
 # Speakers
 
