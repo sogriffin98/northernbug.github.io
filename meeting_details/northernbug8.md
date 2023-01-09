@@ -24,8 +24,8 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
-| 10:00-10:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
-| 11:00-11:50 | Dr Anna Lorenc, Wellcome Sanger Institute | Beginner's guide to single cell RNA-seq |  |
+| 10:00-10:50 | TBA |  |  |
+| 11:00-11:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
 | 12:00-13:00 | Lunch break |  |  |
 | 13:00-13:15 | Welcome notes |  |  |
 | 13:15-13:35 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
@@ -45,8 +45,8 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 [Dr Mark Ravinet](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), Assistant Professor of Adaptation to the Environment, University of Nottingham
 
-[Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Principal Bioinformatician, Immune Genomics Group, Wellcome Sanger Institute
+Unfortunately, [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/) will not be presenting during the conference due to a COVID-19 infection :-( As of 9th January, we are trying to organise another speaker. Stay tuned!
 
 # Registration
 
-Registration form is open at: [https://bit.ly/nbug8_registration](https://bit.ly/nbug8_registration). Deadline for registration was at midnight on Monday, December 19th, however we will keep the form open until we will run out of lunch portions ;-)
+Registration form is closed!
