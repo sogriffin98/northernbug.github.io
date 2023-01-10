@@ -30,8 +30,8 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:00-13:15 | Welcome notes |  |  |
 | 13:15-13:35 | Amber Emmett | Integrative ‘omics approach to identify gene-specific cis-Regulatory Elements Across Differentiation | PhD student |
 | 13:35-13:55 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
-| 13:55-14:15 | Martina Finetti | TBA | Postdoc |
-| 14:15-14:35 | Merideth Freiheit | Adaptive sequencing with Nanopore | PhD student |
+| 13:55-14:15 | Merideth Freiheit | Adaptive sequencing with Nanopore | PhD student |
+| 14:15-14:35 | Jarek Bryk | Making your work with R a little bit smoother | PI |
 | 14:35-14:45 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
 | 14:45-15:30 | Coffee + poster session break |  |  |
 | 15:30-15:50 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
