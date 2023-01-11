@@ -45,7 +45,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 [Dr Mark Ravinet](https://www.nottingham.ac.uk/research/groups/cells-organisms-and-molecular-genetics/people/mark.ravinet), Assistant Professor of Adaptation to the Environment, University of Nottingham
 
-Unfortunately, [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/) will not be presenting during the conference due to a COVID-19 infection :-( As of 9th January, we are trying to organise another speaker. Stay tuned!
+Unfortunately, [Dr Anna Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/) will not be presenting during the conference due to a COVID-19 infection :-(
 
 # Registration
 
