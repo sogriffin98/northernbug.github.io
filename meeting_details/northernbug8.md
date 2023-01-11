@@ -32,7 +32,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:35-13:55 | Nazia Ahmed | Understanding the Changes in Gene Regulation in Glioblastoma through Network Analysis | PhD student |
 | 13:55-14:15 | Merideth Freiheit | Adaptive sequencing with Nanopore | PhD student |
 | 14:15-14:35 | Jarek Bryk | Making your work with R a little bit smoother | PI |
-| 14:35-14:45 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
+| 14:35-14:45 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason + extra pitch from Ian Donaldson |  |
 | 14:45-15:30 | Coffee + poster session break |  |  |
 | 15:30-15:50 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
 | 15:50-16:10 | Helen Horkan | Leveraging Single Cell Sequencing to Investigate Genome Stability in an Immortal Animal | PhD student |
