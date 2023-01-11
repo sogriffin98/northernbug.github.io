@@ -35,7 +35,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 14:35-14:45 | Poster teaser talks | Monika Gonka, Sarah Griffin, Helen Horkan, Andrew Mason |  |
 | 14:45-15:30 | Coffee + poster session break |  |  |
 | 15:30-15:50 | Mathew Lowe | Codon usage in Trichomonas vaginalis | PhD student |
-| 15:50-16:10 | Helen Horkan | Mechanisms of immortality in Hydractinia | PhD student |
+| 15:50-16:10 | Helen Horkan | Leveraging Single Cell Sequencing to Investigate Genome Stability in an Immortal Animal | PhD student |
 | 16:10-16:30 | Alastair Droop | A lightning introduction to Rust | PI |
 | 16:30-17:00 | Closing discussion + pub session | [Warehouse](https://goo.gl/maps/n1vTZ3ZPC1eXnXaX8), 200m from the meeting building :-) |  |
 
