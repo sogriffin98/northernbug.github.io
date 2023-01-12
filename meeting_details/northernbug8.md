@@ -24,7 +24,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
-| 10:30-10:50 | TBA |  |  |
+| 10:30 | Registration + tea/coffee |  |  |
 | 11:00-11:50 | Dr Mark Ravinet, University of Nottingham | Adventures in the genomics of non-model organisms: a how to (and how not to) guide |  |
 | 12:00-13:00 | Lunch break |  |  |
 | 13:00-13:15 | Welcome notes |  |  |
