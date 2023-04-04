@@ -55,6 +55,8 @@ The audience have broad research interests so abstracts should ideally be bioinf
 
 Posters and talks will be judged and prizes will be awarded for the top scoring.
 
+We may be able to offer a small bursary for those with caring responsibilities who would otherwise not be able attend the meeting[carers award](https://genetics.org.uk/grants/carers-award/). Please contact the organisers for further details.
+
 # Registration
 
 [Registration form](https://forms.gle/AMmgxnHeWtJxpc8E6)
