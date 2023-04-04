@@ -47,7 +47,7 @@ Note: Agenda is provisional.
 
 NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and the host institution covers costs. 
 
-We encourage all researchers, but particularly those in the early stages of their careers to attend and present their work as talk or a poster.  It’s a great forum to practise your talks, float new ideas and approaches, talk about challenges you are facing and present early work.
+We encourage all researchers, but particularly those in the early stages of their careers to attend and present their work as a talk or a poster.  It’s a great forum to practise your talks, float new ideas and approaches, talk about challenges you are facing and present early work.
 
 Selected talks from the submitted abstracts will be 15 mins with 5 mins of questions.
 
