@@ -41,7 +41,7 @@ Note: Agenda is provisional.
 | 15:30-15:50 | Selected Abstract 5 | | |
 | 15:50-16:10 | Selected Abstract 6 | | |
 | 16:10-16:30 | Selected Abstract 7 | | |
-| 16:30-17:00 | Prizes, closing discussion + networking | DoughBar https://goo.gl/maps/vPAXFzhtFZ5gV6Sn8 (next to the train station) |  |
+| 16:30-17:00 | Prizes, closing discussion + networking | [DoughBar](https://goo.gl/maps/vPAXFzhtFZ5gV6Sn8) (next to the train station) |  |
 
 # What to expect
 
@@ -57,7 +57,7 @@ Posters and talks will be judged and prizes will be awarded for the top scoring.
 
 # Registration
 
-Registration form: https://forms.gle/AMmgxnHeWtJxpc8E6
+[Registration form](https://forms.gle/AMmgxnHeWtJxpc8E6)
 
 Deadline for poster/talk abstract submission midnight (BST) 30th April
 
