@@ -41,13 +41,13 @@ Note: Agenda is provisional.
 | 15:30-15:50 | Selected Abstract 5 | | |
 | 15:50-16:10 | Selected Abstract 6 | | |
 | 16:10-16:30 | Selected Abstract 7 | | |
-| 16:30-17:00 | Prizes, closing discussion + networking | DoughBar https://goo.gl/maps/vPAXFzhtFZ5gV6Sn8 (next to the train station) |  |
+| 16:30-17:00 | Prizes, closing discussion + networking | [DoughBar](https://goo.gl/maps/vPAXFzhtFZ5gV6Sn8) (next to the train station) |  |
 
 # What to expect
 
 NorthernBUG meetings are open to anyone interested in bioinformatics or its application in life science research. Meetings are free, and the host institution covers costs. 
 
-We encourage all researchers, but particularly those in the early stages of their careers to attend and present their work as talk or a poster.  It’s a great forum to practise your talks, float new ideas and approaches, talk about challenges you are facing and present early work.
+We encourage all researchers, but particularly those in the early stages of their careers to attend and present their work as a talk or a poster.  It’s a great forum to practise your talks, float new ideas and approaches, talk about challenges you are facing and present early work.
 
 Selected talks from the submitted abstracts will be 15 mins with 5 mins of questions.
 
@@ -55,9 +55,11 @@ The audience have broad research interests so abstracts should ideally be bioinf
 
 Posters and talks will be judged and prizes will be awarded for the top scoring.
 
+We may be able to offer a small bursary for those with caring responsibilities who would otherwise not be able attend the meeting[carers award](https://genetics.org.uk/grants/carers-award/). Please contact the organisers for further details.
+
 # Registration
 
-Registration form: https://forms.gle/AMmgxnHeWtJxpc8E6
+[Registration form](https://forms.gle/AMmgxnHeWtJxpc8E6)
 
 Deadline for poster/talk abstract submission midnight (BST) 30th April
 
