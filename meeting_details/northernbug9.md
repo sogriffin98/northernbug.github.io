@@ -3,10 +3,9 @@ title: "NorthernBUG 9"
 author: "Jamie Soul"
 date: "16 June 2023"
 layout: meeting
-institute: Institute of Systems, Molecular and Integrative Biology, University of
-  Liverpool
-postcode: L69 7ZB
-address: Crown St, Liverpool
+institute: 502 Teaching Hub, University of Liverpool
+postcode: L69 3GD
+address: 150 Mount Pleasant, Liverpool
 permalink: northernbug9
 ---
 
