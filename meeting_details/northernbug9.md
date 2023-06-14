@@ -13,7 +13,7 @@ permalink: northernbug9
 
 The organising committee for nothernBUG9 is, in alphabetical order: Eva Caamano Gutierrez, Matthew Gemmell, Emily Johnson, Jamie Soul. Emails should be directed to Jamie at jamie.soul@liverpool.ac.uk
 
-The meeting will take place on 16th June in LR4, 502 Teaching Hub, University of Liverpool. The building is located within a 15 min walk from the Liverpool Lime Street train station.
+The meeting will take place on 16th June in <b>TR4, 502 Teaching Hub, University of Liverpool</b>. The building is located within a 15 min walk from the Liverpool Lime Street train station.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9514.268771277764!2d-2.9658556!3d53.4046817!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b210bb7c84b1f%3A0xbfae5600dda95d0d!2s502%20TEACHING%20HUB!5e0!3m2!1sen!2suk!4v1683905094617!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -52,6 +52,4 @@ We may be able to offer a small bursary for those with caring responsibilities w
 
 # Registration
 
-[Registration form](https://forms.gle/AMmgxnHeWtJxpc8E6)
-
-Deadline for registration: midnight (BST) 31st May
+Resigration has now closed. Attendees will be sent 
