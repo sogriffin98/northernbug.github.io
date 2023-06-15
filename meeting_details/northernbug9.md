@@ -31,7 +31,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 12:00-13:00 | Lunch break with posters |  |  |
 | 13:00-13:15 | Welcome notes |  |  |
 | 13:15-13:55 | Rachel Queen | Bioinformatic strategies for analysing single cell and spatial transcriptomics | PI |
-| 13:55-14:15 | Vlad Ungureanu | Improved stratification of Muscle-invasive bladder cancer with a bespoke version of the Parsimonious Gene Correlation Network Analysis model | PhD student |
+| 13:55-14:15 | Vlad Ungureanu | An integrative network approach to the stratification of muscle-invasive bladder cancer | PhD student |
 | 14:15-14:35 | Suraj Verma |Genome-scale metabolic model and multi-omics data integration using machine learning for cancer diagnosis and prognosis.| PhD student |
 | 14:35-14:45 | Poster Teaser Talks (1 min) ||  |
 | 14:45-15:30 | Coffee + poster session break |  |  |
