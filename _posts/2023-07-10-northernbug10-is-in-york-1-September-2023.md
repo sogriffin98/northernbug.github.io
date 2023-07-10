@@ -4,7 +4,7 @@ author: Andrew Mason
 title: NorthernBUG10 is taking place in York on 1st September 2023. Registration is open!
 ---
 
-We are really excited to announce that the next NorthernBUG meeting is taking place in York on Frday 1st September 2023. [Registration is now open](https://northernbug.github.io/northernbug10)!
+We are really excited to announce that the next NorthernBUG meeting is taking place in York on Friday 1st September 2023. [Registration is now open](https://northernbug.github.io/northernbug10)!
 
 For this, our tenth meeting, we will be in the beautiful and historic setting of the York Guildhall, right in the centre of the city with views over the river. We will have our training/walkthrough style morning followed by lunch with posters, and then moving into an afternoon of research talks. Thanks to our sponsors we will be able to offer more prizes, and we have more Carer's Bursaries available too - just get in touch to ask.
 
