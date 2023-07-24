@@ -26,16 +26,19 @@ The broad agenda is outlined below - we will add specifics as we get closer to t
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
-| 10:30-12:00 | Morning training session and discussion | TBC |  |
+| 10:30-10:35 | Andrew Mason | Opening remarks |  |
+| 10:35-11:00 | Alastair Droop | Using Git in Research: Introductions and Applications | Training session talk |
+| 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - bring your laptop! |
+| 11:50-12:00 | TBC | Research Data Management: importance and available resources/support | Training session talk 2 |
 | 12:00-13:00 | Lunch break with posters |  |  |
-| 13:00-13:15 | Welcome notes |  |  |
-| 13:15-14:15 | Session 1 Talks | TBC from submitted abstracts |  |
-| 14:15-14:35 | Industry sponsor flash talks | TBC |  |
-| 14:35-14:45 | Poster Teaser Talks (1 min) ||  |
-| 14:45-15:30 | Coffee + poster session break |  |  |
-| 15:30-16:40 | Session 2 Talks | TBC from submitted abstracts |  |
-| 16:40-17:00 | Prizes and closing discussion |  |  |
-| 17:00- | Pub | TBC |  |
+| 13:00-13:15 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
+| 13:15-14:15 |  | Session 1 Talks | TBC from submitted abstracts |
+| 14:15-14:35 |  | Industry sponsor flash talks |  |
+| 14:35-14:45 |  | Poster Teaser Talks (1 min) |  |
+| 14:45-15:30 |  | Coffee + poster session break |  |
+| 15:30-16:40 |  | Session 2 Talks | TBC from submitted abstracts |
+| 16:40-17:00 |  | Prizes and closing discussion |  |
+| 17:00- |  | Pub | TBC |
 
 # What to expect
 
