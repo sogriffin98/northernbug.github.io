@@ -50,7 +50,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 16:00-16:10 | Rebekah Penrice-Randal | COVID-19 pathway biomarker identification using the TopMD algorithm | Industry |
 | 16:10-16:20 | Ethan Redmond | Constructing a high resolution timeseries of a developmental transition with single-plant-omics in *Arabidopsis thaliana* | PhD student |
 | 16:20-16:30 | Mog Wodring | High-Throughput Sequencing of Niche Tubers Finds Five Putative Novel Viruses | PhD student |
-| 16:30-16:40 | Sara Franco Ortega | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | Postdoc |
+| 16:30-16:40 | Sara Franco Ortega | Multi-omics analysis to understand the response of *Ralstonia solanacearum* reservoir hosts | Postdoc |
 | 16:40-16:50 | Daphne Ezer | Asynchronous development: bioinformatics challenges and opportunities when individuals mature at different rates | PI |
 | 16:50-17:00 | **Prizes and closing remarks** |  |  |
 | 17:00- | **Pub** | Ye Olde Starre Inne, Stonegate | 3 minute walk from Guildhall |
