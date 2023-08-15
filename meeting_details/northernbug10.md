@@ -44,7 +44,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 14:35-14:45 | **Poster Teaser Talks** |  |  |
 | 14:45-15:30 | **Poster session break** | Coffee, posters, industry, networking |  |
 |  | **Session 2 Talks** |  |  |
-| 15:30-15:40 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | PhD student |
+| 15:30-15:40 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | Postdoc |
 | 15:40-15:50 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
 | 15:50-16:00 | Peter Ashton | Disease surveillance by UKHSA | Industry |
 | 16:00-16:10 | Rebekah Penrice-Randal | COVID-19 pathway biomarker identification using the TopMD algorithm | Industry |
