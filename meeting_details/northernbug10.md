@@ -19,9 +19,9 @@ The meeting will take place on 1st September in **The Guildhall in York**. The b
 
 # Agenda
 
-If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
-The broad agenda is outlined below - we will add specifics as we get closer to the day, and send out a full agenda the week before.
+We have now filled the agenda for the day - we had a lot of interest and it's great to highlight such diverse research (talks and posters!). We decided to go for 10 minute talks based on requests of attendees and wanting to fit as many in as possible. Posters and talks will be judged by the NorthernBUG steering committee and attendees, with prizes awarded for the top scoring.
 
+If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
@@ -29,16 +29,34 @@ The broad agenda is outlined below - we will add specifics as we get closer to t
 | 10:30-10:35 | Andrew Mason | Opening remarks |  |
 | 10:35-11:00 | Alastair Droop | Using Git in Research: Introductions and Applications | Training session talk |
 | 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - bring your laptop! |
-| 11:50-12:00 | TBC | Research Data Management: importance and available resources/support | Training session talk 2 |
+| 11:50-12:00 | Allyson Lister | FAIRsharing: educational resource for data and metadata standards | Training session talk 2 |
 | 12:00-13:00 | Lunch break with posters |  |  |
-| 13:00-13:15 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
-| 13:15-14:15 |  | Session 1 Talks | TBC from submitted abstracts |
-| 14:15-14:35 |  | Industry sponsor flash talks |  |
-| 14:35-14:45 |  | Poster Teaser Talks (1 min) |  |
-| 14:45-15:30 |  | Coffee + poster session break |  |
-| 15:30-16:40 |  | Session 2 Talks | TBC from submitted abstracts |
-| 16:40-17:00 |  | Prizes and closing discussion |  |
-| 17:00- |  | Pub | TBC |
+| 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
+|  | **Session 1 Talks** |  |  |
+| 13:10-13:20 | Eva Caamano | Biomarker Discovery Using Machine Learning – Crisis of Reproducibility: The Good, the Bad, and the Ugly | Core facility head |
+| 13:20-13:25 | Katarzyna Kamieniecka  | FAIR Data Stewardship in Galaxy | Bioinformatician |
+| 13:25-13:35 | Ciara Loughrey | EDIJ and Decolonisation: What are they and why does Data Management need them?  | PhD student |
+| 13:35-13:45 | Michael Winter | Assembly of an awkward asexual allopolyploid | PhD student |
+| 13:45-13:55 | Sarah Griffin | BlobToolKit for Genome Assembly Contamination | PhD student |
+| 13:55-14:05 | Bede Constantinides | Hostile: accurate host decontamination of microbial sequences | Postdoc |
+| 14:05-14:15 | Anna White | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | PhD student |
+| 14:15-14:35 | **Industry sponsor flash talks ** | Novogene, Azenta, Oxford Nanopore Technologies, Source BioScience, 10x Genomics |  |
+| 14:35-14:45 | **Poster Teaser Talks** |  |  |
+| 14:45-15:30 | **Poster session break** | Coffee, posters, industry, networking |  |
+|  | **Session 2 Talks** |  |  |
+| 15:30-15:40 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | PhD student |
+| 15:40-15:50 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
+| 15:50-16:00 | Peter Ashton | Disease surveillance by UKHSA | Industry |
+| 16:00-16:10 | Rebekah Penrice-Randal | COVID-19 pathway biomarker identification using the TopMD algorithm | Industry |
+| 16:10-16:20 | Ethan Redmond | Constructing a high resolution timeseries of a developmental transition with single-plant-omics in *Arabidopsis thaliana* | PhD student |
+| 16:20-16:30 | Mog Wodring | High-Throughput Sequencing of Niche Tubers Finds Five Putative Novel Viruses | PhD student |
+| 16:30-16:40 | Sara Franco Ortega | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | Postdoc |
+| 16:40-16:50 | Daphne Ezer | Asynchronous development: bioinformatics challenges and opportunities when individuals mature at different rates | PI |
+| 16:50-17:00 | **Prizes and closing remarks** |  |  |
+| 17:00- | **Pub** | Ye Olde Starre Inne, Stonegate | 3 minute walk from Guildhall |
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2347.3828686914435!2d-1.0869319869707323!3d53.96046847235893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487931a63aee3cd5%3A0xb1c949909a57b3ce!2sYe%20Olde%20Starre%20Inne!5e0!3m2!1sen!2suk!4v1692113528364!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 # What to expect
 
@@ -54,8 +72,4 @@ Sponsorship also means we have more funds for poster and talk prizes, and we are
 
 # Registration
 
-Please [register using this Google Form](https://forms.gle/JnxeNpx3My2tKaqC9) by **Thursday 10th August**. This gives us enough time to confirm numbers for catering (very important!)
-
-Also use the registration form to submit an abstract for a talk or a poster (same deadline). If you would like to do both(!), please submit an abstract for a talk, and then email Andrew directly (andrew.mason@york.ac.uk). You can select your preference for a talk length. If selected, we will do our best to accommodate. 
-
-Posters and talks will be judged by the NorthernBUG steering committee and attendees, with prizes awarded for the top scoring.
+Registration has now closed. If you can no longer attend, it would be very helpful if you could let us know before the day. 
