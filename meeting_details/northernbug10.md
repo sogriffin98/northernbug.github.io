@@ -41,8 +41,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:55-14:05 | Bede Constantinides | Hostile: accurate host decontamination of microbial sequences | Postdoc |
 | 14:05-14:15 | Anna White | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | PhD student |
 | 14:15-14:35 | **Industry sponsor flash talks** | Novogene, Azenta, Oxford Nanopore Technologies, Source BioScience, 10x Genomics |  |
-| 14:35-14:45 | **Poster Teaser Talks** |  |  |
-| 14:45-15:30 | **Poster session break** | Coffee, posters, industry, networking |  |
+| 14:35-15:30 | **Poster session break** | Coffee, posters, industry, networking |  |
 |  | **Session 2 Talks** |  |  |
 | 15:30-15:40 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | Postdoc |
 | 15:40-15:50 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
