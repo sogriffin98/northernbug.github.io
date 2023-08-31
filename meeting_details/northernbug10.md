@@ -20,6 +20,7 @@ The meeting will take place on 1st September in **The Guildhall in York**. The b
 # Agenda
 
 We have now filled the agenda for the day - we had a lot of interest and it's great to highlight such diverse research (talks and posters!). We decided to go for 10 minute talks based on requests of attendees and wanting to fit as many in as possible. Posters and talks will be judged by the NorthernBUG steering committee and attendees, with prizes awarded for the top scoring.
+Information and workshop materials for the [Git training session are available here](https://github.com/alastair-droop/northernbug10-git-workshop).
 
 If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
 
@@ -28,7 +29,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:00-10:30 | Registration opens and Tea/coffee |  | Registration available all day|
 | 10:30-10:35 | Andrew Mason | Opening remarks |  |
 | 10:35-11:00 | Alastair Droop | Using Git in Research: Introductions and Applications | Training session talk |
-| 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - bring your laptop! |
+| 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - [Instructions & Walkthrough](https://github.com/alastair-droop/northernbug10-git-workshop) |
 | 11:50-12:00 | Allyson Lister | FAIRsharing: educational resource for data and metadata standards | Training session talk 2 |
 | 12:00-13:00 | Lunch break with posters |  |  |
 | 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
