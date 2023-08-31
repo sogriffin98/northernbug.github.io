@@ -41,13 +41,12 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 13:45-13:55 | Sarah Griffin | BlobToolKit for Genome Assembly Contamination | PhD student |
 | 13:55-14:05 | Bede Constantinides | Hostile: accurate host decontamination of microbial sequences | Postdoc |
 | 14:05-14:15 | Anna White | Challenges and advances in bioinformatic analysis of ancient oral microbiomes | PhD student |
-| 14:15-14:35 | **Industry sponsor flash talks** | Novogene, Azenta, Oxford Nanopore Technologies, Source BioScience, 10x Genomics |  |
-| 14:35-15:30 | **Poster session break** | Coffee, posters, industry, networking |  |
+| 14:15-14:40 | **Industry sponsor flash talks** | Novogene, Azenta, Oxford Nanopore Technologies, Source BioScience, 10x Genomics |  |
+| 14:40-15:40 | **Poster session break** | Coffee, posters, industry, networking |  |
 |  | **Session 2 Talks** |  |  |
-| 15:30-15:40 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | Postdoc |
-| 15:40-15:50 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
-| 15:50-16:00 | Peter Ashton | Disease surveillance by UKHSA | Industry |
-| 16:00-16:10 | Rebekah Penrice-Randal | COVID-19 pathway biomarker identification using the TopMD algorithm | Industry |
+| 15:40-15:50 | Josh Lee | Redefining the kidney cancer transcriptome through long-read RNA sequencing | Postdoc |
+| 15:50-16:00 | Jessica Buddle  | Using pooled sequencing to understand evolutionary dynamics in an evolve-and-resequence experiment | PhD student |
+| 16:00-16:10 | Peter Ashton | Disease surveillance by UKHSA | Industry |
 | 16:10-16:20 | Ethan Redmond | Constructing a high resolution timeseries of a developmental transition with single-plant-omics in *Arabidopsis thaliana* | PhD student |
 | 16:20-16:30 | Mog Wodring | High-Throughput Sequencing of Niche Tubers Finds Five Putative Novel Viruses | PhD student |
 | 16:30-16:40 | Sara Franco Ortega | Multi-omics analysis to understand the response of *Ralstonia solanacearum* reservoir hosts | Postdoc |
