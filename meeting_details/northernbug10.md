@@ -22,7 +22,7 @@ The meeting will take place on 1st September in **The Guildhall in York**. The b
 We have now filled the agenda for the day - we had a lot of interest and it's great to highlight such diverse research (talks and posters!). We decided to go for 10 minute talks based on requests of attendees and wanting to fit as many in as possible. Posters and talks will be judged by the NorthernBUG steering committee and attendees, with prizes awarded for the top scoring.
 Information and workshop materials for the [Git training session are available here](https://github.com/alastair-droop/northernbug10-git-workshop).
 
-If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know!
+If you have a suggestion you'd like us (or organisers of the next meeting) to take on board, let us know! The [NBUG10 feedback google form is here](https://forms.gle/Vg5PvJZqSkRtWjWL9).
 
 | Time          | Speaker | Presentation | Information |
 |---------------|---------|--------------|-------------|
@@ -31,7 +31,7 @@ If you have a suggestion you'd like us (or organisers of the next meeting) to ta
 | 10:35-11:00 | Alastair Droop | Using Git in Research: Introductions and Applications | Training session talk |
 | 11:00-11:50 | Alastair Droop (and assistants!) | Git: interactive tutorial | Live training session - [Instructions & Walkthrough](https://github.com/alastair-droop/northernbug10-git-workshop) |
 | 11:50-12:00 | Allyson Lister | FAIRsharing: educational resource for data and metadata standards | Training session talk 2 |
-| 12:00-13:00 | Lunch break with posters |  |  |
+| 12:00-13:00 | Lunch break with posters - [including submitted by online attendees](https://drive.google.com/drive/folders/1fZb0ICX_-ms-TttYag6JDPaULxg1ew2m?usp=sharing) |  |  |
 | 13:00-13:10 | Andrew Mason | Formal welcome to NorthernBUG10! |  |
 |  | **Session 1 Talks** |  |  |
 | 13:10-13:20 | Eva Caamano | Biomarker Discovery Using Machine Learning – Crisis of Reproducibility: The Good, the Bad, and the Ugly | Core facility head |
@@ -69,6 +69,7 @@ As well as our core funding from [The Genetics Society](https://genetics.org.uk/
 
 Sponsorship also means we have more funds for poster and talk prizes, and we are able to offer a small number of bursaries to help with costs for those with caring responsibilities, following The Genetics Society [Carer's Award](https://genetics.org.uk/grants/carers-award/). Please contact Andrew for further details.
 
-# Registration
+# Feedback
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWmZKGU27iv-83byw4GhgLC2JZLLK-KuwaM1EqvtrUEgEapg/viewform?embedded=true" width="640" height="2079" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-Registration has now closed. If you can no longer attend, it would be very helpful if you could let us know before the day. 
+ 
